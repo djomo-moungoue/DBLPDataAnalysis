@@ -1,0 +1,195 @@
+DBLP UNIVERSITY OF TRIER   18/03/2015  -  15:20:22
+
+STATISTICAL DISTRIBUTION COMPUTATION OUTPUT SUMMARY
+
+____________________________
+
+1. Number Of Modification Per Month
+
+Sample minimum = 237234.0
+Lower quartile =  268996.00
+Median =  307227.50
+Upper quartile =  320817.50
+Sample maximum = 991013.0
+
+Arithmetic Mean =  355183.58
+Variance =  38255431820.58
+Standard Deviation =  195589.96
+
+Total = 4262203.0
+
+____________________________
+
+2. Number Of Modifications Per Year
+
+Sample minimum = 43771.0
+Lower quartile =  73400.50
+Median =  137222.00
+Upper quartile =  576788.50
+Sample maximum = 901464.0
+
+Arithmetic Mean =  327861.77
+Variance =  80383717439.72
+Standard Deviation =  283520.22
+
+Total = 4262203.0
+
+____________________________
+
+3. Number Of Fields Per Other (incollection+proceedings+book+phdthesis+masterthesis)
+
+Sample minimum = 1.0
+Lower quartile =  1.00
+Median =  2.00
+Upper quartile =  95.00
+Sample maximum = 15284.0
+
+Arithmetic Mean =  1304.07
+Variance =  11723668.72
+Standard Deviation =  3423.98
+
+Total = 71724.0
+
+____________________________
+
+4. Number Of Fields Per article
+
+Sample minimum = 1.0
+Lower quartile =  1.00
+Median =  8.50
+Upper quartile =  71.00
+Sample maximum = 350238.0
+
+Arithmetic Mean =  9634.98
+Variance =  2198602958.91
+Standard Deviation =  46889.26
+
+Total = 1194737.0
+
+____________________________
+
+5. Number Of Fields Perinproceedings
+
+Sample minimum = 1.0
+Lower quartile =  2.00
+Median =  22.00
+Upper quartile =  324.00
+Sample maximum = 403377.0
+
+Arithmetic Mean =  15962.26
+Variance =  4265327449.81
+Standard Deviation =  65309.47
+
+Total = 1516415.0
+
+____________________________
+
+6. New Authors Or Editors Per Year
+
+Sample minimum = 2.0
+Lower quartile =  89.50
+Median =  2222.00
+Upper quartile =  22002.50
+Sample maximum = 109804.0
+
+Arithmetic Mean =  18706.71
+Variance =  1006352090.08
+Standard Deviation =  31723.05
+
+Total = 1496537.0
+
+____________________________
+
+7. Person Names Length
+
+Sample minimum = 1.0
+Lower quartile =  10.00
+Median =  1283.00
+Upper quartile =  33094.00
+Sample maximum = 191965.0
+
+Arithmetic Mean =  31841.21
+Variance =  3127489001.83
+Standard Deviation =  55923.96
+
+Total = 1496537.0
+
+____________________________
+
+8. Number Of Words Per Title
+
+Sample minimum = 1.0
+Lower quartile =  1.50
+Median =  20.00
+Upper quartile =  4153.00
+Sample maximum = 327755.0
+
+Arithmetic Mean =  31624.03
+Variance =  6253123307.03
+Standard Deviation =  79076.69
+
+Total = 2782915.0
+
+____________________________
+
+9. Number Of Characters Per Title
+
+Sample minimum = 1.0
+Lower quartile =  3.00
+Median =  75.50
+Upper quartile =  5417.00
+Sample maximum = 51352.0
+
+Arithmetic Mean =  7440.95
+Variance =  208325973.79
+Standard Deviation =  14433.50
+
+Total = 2782915.0
+
+____________________________
+
+10. Number Of Electronic Versions Per Year
+
+Sample minimum = 5.0
+Lower quartile =  98.00
+Median =  2477.00
+Upper quartile =  29446.00
+Sample maximum = 218753.0
+
+Arithmetic Mean =  32161.79
+Variance =  3584558361.27
+Standard Deviation =  59871.18
+
+Total = 2572943.0
+
+____________________________
+
+11. Number Of Cross References Per Book
+
+Sample minimum = 1.0
+Lower quartile =  1.00
+Median =  2.00
+Upper quartile =  11.00
+Sample maximum = 523.0
+
+Arithmetic Mean =  37.83
+Variance =  9813.72
+Standard Deviation =  99.06
+
+Total = 25154.0
+
+____________________________
+
+12. Number Of Pages Per Cross references
+
+Sample minimum = 1.0
+Lower quartile =  1.00
+Median =  7.00
+Upper quartile =  33.00
+Sample maximum = 281639.0
+
+Arithmetic Mean =  3703.47
+Variance =  588507364.47
+Standard Deviation =  24259.17
+
+Total = 2522064.0

@@ -1,0 +1,2691 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+
+<dblp>
+
+<!-- minARTICLE_1 maxINPROCEEDING_147 maxBOOK_751 maxPROCEEDING_221 minINCOLLECTION_5  minPHDTHESIS_4 MASTERTHESIS_0 maxWWW_36 -->
+<!-- maxARTICLE_358 minINPROCEEDING_5 minBOOK_3 minPROCEEDING_3 maxINCOLLECTION_110 maxPHDTHESIS_11 MASTERTHESIS_0 minWWW_1 -->
+<article mdate="2011-11-04" key="journals/tcas/FattahZA08a">
+<author>Shaikh Anowarul Fattah</author>
+<author>Wei-Ping Zhu</author>
+<author>M. Omair Ahmad</author>
+<title>A Novel Technique for the Identification of ARMA Systems Under Very Low Levels of SNR.</title>
+<pages>1988-2001</pages>
+<year>2008</year>
+<volume>55-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>7</number>
+<ee>http://dx.doi.org/10.1109/TCSI.2008.918076</ee>
+<url>db/journals/tcas/tcasI55.html#FattahZA08a</url>
+</article>
+<article mdate="2014-09-18" key="journals/tcas/ZhengLL14">
+<author>Weihua Zheng</author>
+<author>Kenli Li</author>
+<author>Keqin Li</author>
+<title>A Fast Algorithm Based on SRFFT for Length N = q &times; 2<sup>m</sup> DFTs.</title>
+<pages>110-114</pages>
+<year>2014</year>
+<volume>61-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1109/TCSII.2013.2291098</ee>
+<url>db/journals/tcas/tcasII61.html#ZhengLL14</url>
+</article>
+<article mdate="2011-10-20" key="journals/tcas/BhottoA11">
+<author>M. Zulfiquar A. Bhotto</author>
+<author>Andreas Antoniou</author>
+<title>Robust Quasi-Newton Adaptive Filtering Algorithms.</title>
+<pages>537-541</pages>
+<year>2011</year>
+<volume>58-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>8</number>
+<ee>http://dx.doi.org/10.1109/TCSII.2011.2158722</ee>
+<url>db/journals/tcas/tcasII58.html#BhottoA11</url>
+</article>
+<proceedings mdate="2009-05-25" key="conf/sg/2008">
+<editor>Andreas Butz</editor>
+<editor>Brian D. Fisher</editor>
+<editor>Antonio Kr&uuml;ger</editor>
+<editor>Patrick Olivier</editor>
+<editor>Marc Christie</editor>
+<title>Smart Graphics, 8th International Symposium, SG 2008, Rennes, France, August 27-29, 2008. Proceedings</title>
+<volume>5166</volume>
+<year>2008</year>
+<isbn>978-3-540-85410-4</isbn>
+<booktitle>Smart Graphics</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/sg/sg2008.html</url>
+</proceedings>
+
+<proceedings mdate="2004-05-06" key="conf/sg/2004">
+<editor>Andreas Butz</editor>
+<editor>Antonio Kr&uuml;ger</editor>
+<editor>Patrick Olivier</editor>
+<title>4th International Symposium, SG 2004, Banff, Canada, May 23-25, 2004, Proceedings</title>
+<booktitle>Smart Graphics</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<volume>3031</volume>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-21977-3</isbn>
+<url>db/conf/sg/sg2004.html</url>
+</proceedings>
+
+<inproceedings mdate="2011-07-05" key="conf/sg/Paley03">
+<author>W. Bradford Paley</author>
+<title>Illustrative Interfaces: Building Special-Purpose Interfaces with Art Techniques and Brain Science Findings.</title>
+<pages>1-11</pages>
+<ee>http://dx.doi.org/10.1007/3-540-37620-8_1</ee>
+<year>2003</year>
+<crossref>conf/sg/2003</crossref>
+<booktitle>Smart Graphics</booktitle>
+<url>db/conf/sg/sg2003.html#Paley03</url>
+</inproceedings>
+<inproceedings mdate="2006-12-15" key="conf/sg/TerrenghiFB06">
+<author>Lucia Terrenghi</author>
+<author>Torsten Fritsche</author>
+<author>Andreas Butz</author>
+<title>The EnLighTable: Design of Affordances to Support Collaborative Creativity.</title>
+<pages>206-217</pages>
+<year>2006</year>
+<crossref>conf/sg/2006</crossref>
+<booktitle>Smart Graphics</booktitle>
+<ee>http://dx.doi.org/10.1007/11795018_19</ee>
+<url>db/conf/sg/sg2006.html#TerrenghiFB06</url>
+</inproceedings>
+<inproceedings mdate="2007-07-09" key="conf/sg/KangK07">
+<author>Kyung-Kyu Kang</author>
+<author>Dongho Kim</author>
+<title>Synthesis of Dancing Character Motion from Beatboxing Sounds.</title>
+<pages>216-219</pages>
+<year>2007</year>
+<crossref>conf/sg/2007</crossref>
+<booktitle>Smart Graphics</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-73214-3_23</ee>
+<url>db/conf/sg/sg2007.html#KangK07</url>
+</inproceedings>
+<article mdate="2013-01-29" key="journals/trs/SzczukaJ13">
+<author>Marcin S. Szczuka</author>
+<author>Andrzej Janusz</author>
+<title>Semantic Clustering of Scientific Articles Using Explicit Semantic Analysis.</title>
+<pages>83-102</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>T. Rough Sets</journal>
+<ee>http://dx.doi.org/10.1007/978-3-642-36505-8_6</ee>
+<crossref>journals/trs/2013-16</crossref>
+<url>db/journals/trs/trs16.html#SzczukaJ13</url>
+</article>
+<proceedings mdate="2008-11-26" key="journals/trs/2008-8">
+<editor>James F. Peters</editor>
+<editor>Andrzej Skowron</editor>
+<title>Transactions on Rough Sets VIII</title>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<volume>5084</volume>
+<publisher>Springer</publisher>
+<year>2008</year>
+<isbn>978-3-540-85063-2</isbn>
+<booktitle>T. Rough Sets</booktitle>
+<url>db/journals/trs/trs8.html</url>
+</proceedings>
+
+<article mdate="2009-10-12" key="journals/trs/Pancerz09">
+<author>Krzysztof Pancerz</author>
+<title>Extensions of Information Systems: The Rough Set Perspective.</title>
+<pages>157-168</pages>
+<year>2009</year>
+<volume>10</volume>
+<journal>T. Rough Sets</journal>
+<ee>http://dx.doi.org/10.1007/978-3-642-03281-3_6</ee>
+<crossref>journals/trs/2009-10</crossref>
+<url>db/journals/trs/trs10.html#Pancerz09</url>
+</article>
+<article mdate="2009-10-12" key="journals/trs/BianucciC09">
+<author>Daniela Bianucci</author>
+<author>Gianpiero Cattaneo</author>
+<title>Information Entropy and Granulation Co-Entropy of Partitions and Coverings: A Summary.</title>
+<pages>15-66</pages>
+<year>2009</year>
+<volume>10</volume>
+<journal>T. Rough Sets</journal>
+<ee>http://dx.doi.org/10.1007/978-3-642-03281-3_2</ee>
+<crossref>journals/trs/2009-10</crossref>
+<url>db/journals/trs/trs10.html#BianucciC09</url>
+</article>
+<proceedings mdate="2005-12-30" key="journals/trs/2005-3">
+<editor>James F. Peters</editor>
+<editor>Andrzej Skowron</editor>
+<title>Transactions on Rough Sets III</title>
+<volume>3400</volume>
+<year>2005</year>
+<isbn>3-540-25998-8</isbn>
+<booktitle>T. Rough Sets</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/journals/trs/trs3.html</url>
+</proceedings>
+
+<article mdate="2010-08-23" key="journals/trs/Pal10">
+<author>Sankar K. Pal</author>
+<title>Computational Theory Perception (CTP), Rough-Fuzzy Uncertainty Analysis and Mining in Bioinformatics and Web Intelligence: A Unified Framework.</title>
+<pages>106-129</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>T. Rough Sets</journal>
+<ee>http://dx.doi.org/10.1007/978-3-642-11479-3_7</ee>
+<crossref>journals/trs/2010-11</crossref>
+<url>db/journals/trs/trs11.html#Pal10</url>
+</article>
+<article mdate="2013-11-21" key="journals/trs/Takahagi04">
+<author>Eiichiro Takahagi</author>
+<title>Fuzzy Integral Based Fuzzy Switching Functions.</title>
+<pages>129-150</pages>
+<ee>http://dx.doi.org/10.1007/978-3-540-27778-1_8</ee>
+<year>2004</year>
+<crossref>journals/trs/2004-2</crossref>
+<booktitle>T. Rough Sets</booktitle>
+<url>db/journals/trs/trs2.html#Takahagi04</url>
+</article>
+<proceedings mdate="2012-09-24" key="journals/trs/2012-15">
+<editor>James F. Peters</editor>
+<editor>Andrzej Skowron</editor>
+<title>Transactions on Rough Sets XV</title>
+<volume>7255</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<ee>http://dx.doi.org/10.1007/978-3-642-31903-7</ee>
+<isbn>978-3-642-31902-0</isbn>
+<booktitle>T. Rough Sets</booktitle>
+<url>db/journals/trs/trs15.html</url>
+</proceedings>
+<proceedings mdate="2010-06-29" key="conf/sg/2010">
+<editor>Robyn Taylor</editor>
+<editor>Pierre Boulanger</editor>
+<editor>Antonio Kr&uuml;ger</editor>
+<editor>Patrick Olivier</editor>
+<title>Smart Graphics, 10th International Symposium on Smart Graphics, Banff, Canada, June 24-26, 2010, Proceedings</title>
+<volume>6133</volume>
+<year>2010</year>
+<ee>http://dx.doi.org/10.1007/978-3-642-13544-6</ee>
+<isbn>978-3-642-13543-9</isbn>
+<booktitle>Smart Graphics</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/sg/sg2010.html</url>
+</proceedings>
+<article mdate="2013-10-24" key="journals/tcas/YinCT08">
+<author>S. S. Yin</author>
+<author>Shing-Chow Chan</author>
+<author>Kai Man Tsui</author>
+<title>On the Design of Nearly-PR and PR FIR Cosine Modulated Filter Banks Having Approximate Cosine-Rolloff Transition Band.</title>
+<pages>571-575</pages>
+<year>2008</year>
+<volume>55-II</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>6</number>
+<ee>http://dx.doi.org/10.1109/TCSII.2007.916733</ee>
+<url>db/journals/tcas/tcasII55.html#YinCT08</url>
+</article>
+<article mdate="2011-10-19" key="journals/tcas/Hugues-SalasS10">
+<author>Oscar Hugues-Salas</author>
+<author>K. Alan Shore</author>
+<title>An Extended Kalman Filtering Approach to Nonlinear Time-Delay Systems: Application to Chaotic Secure Communications.</title>
+<pages>2520-2530</pages>
+<year>2010</year>
+<volume>57-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>9</number>
+<ee>http://dx.doi.org/10.1109/TCSI.2010.2043995</ee>
+<url>db/journals/tcas/tcasI57.html#Hugues-SalasS10</url>
+</article>
+<article mdate="2011-10-19" key="journals/tcas/KuangW10">
+<author>Shiann-Rong Kuang</author>
+<author>Jiun-Ping Wang</author>
+<title>Design of Power-Efficient Configurable Booth Multiplier.</title>
+<pages>568-580</pages>
+<year>2010</year>
+<volume>57-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1109/TCSI.2009.2023763</ee>
+<url>db/journals/tcas/tcasI57.html#KuangW10</url>
+</article>
+<phdthesis mdate="2002-01-03" key="phd/Kang91">
+<author>Younkyung Cha Kang</author>
+<title>Randomized Algorithms for Query Optimization.</title>
+<year>1991</year>
+<school>Univ. of Wisconsin-Madison</school>
+</phdthesis>
+
+<phdthesis mdate="2002-01-03" key="phd/Swami89">
+<author>Arun N. Swami</author>
+<title>Optimization of Large Join Queries</title>
+<year>1989</year>
+<school>Stanford University, Department of Computer Science</school>
+</phdthesis>
+
+
+<phdthesis mdate="2002-01-03" key="phd/Cochrane92">
+<author>Roberta Cochrane</author>
+<title>Issues in Integrating Actice Rules Into Database Systems</title>
+<year>1992</year>
+<school>University of Maryland, Department of Computer Science, College Park, MD</school>
+</phdthesis>
+
+<phdthesis mdate="2002-01-03" key="phd/Steenhagen95">
+<author>Hennie J. Steenhagen</author>
+<title>Optimization of Object Query Languages.</title>
+<year>1995</year>
+<school>University of Twente</school>
+</phdthesis>
+
+<phdthesis mdate="2013-06-25" key="phd/Weber2007">
+<author>Alexander Weber 0001</author>
+<title>Multi-layered Browsing</title>
+<year>2007</year>
+<isbn>978-3-89963-634-5</isbn>
+<publisher>Verlag Dr. Hut</publisher>
+<school>Univ. Trier, FB 4, Informatik</school>
+<ee>http://www.dr.hut-verlag.de/9783899636345.html</ee>
+</phdthesis>
+<proceedings mdate="2007-04-27" key="conf/ifip/2006se">
+<editor>Sergio F. Ochoa</editor>
+<editor>Gruia-Catalin Roman</editor>
+<title>IFIP 19th World Computer Congress, First International Workshop on Advanced Software Engineering, Expanding the Frontiers of Software Technology, August 25, 2006, Santiago, Chile</title>
+<booktitle>IFIP Workshop on Advanced Software Engineering</booktitle>
+<series>IFIP</series>
+<volume>219</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>978-0-387-34828-5</isbn>
+<url>db/conf/ifip/ifip2006se.html</url>
+</proceedings>
+<proceedings mdate="2009-02-17" key="series/faia/2008-181">
+<editor>Aleksander Zgrzywa</editor>
+<editor>Kazimierz Choros</editor>
+<editor>Andrzej Sieminski</editor>
+<title>New Trends in Multimedia and Network Information Systems</title>
+<booktitle>New Trends in Multimedia and Network Information Systems</booktitle>
+<volume>181</volume>
+<series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+<year>2008</year>
+<isbn>978-1-58603-904-2</isbn>
+<publisher>IOS Press</publisher>
+<url>db/series/faia/faia181.html</url>
+</proceedings>
+<phdthesis mdate="2002-01-03" key="phd/Chambers92">
+<author>Craig Chambers</author>
+<title>The Design and Implementation of the SELF Compiler, an Optimizing Compilet for Object-Oriented Programming Languages</title>
+<year>1992</year>
+<school>Stanford University, Department of Computer Science</school>
+</phdthesis>
+<inproceedings mdate="2011-02-10" key="conf/hpca/HiltonR10">
+<author>Andrew D. Hilton</author>
+<author>Amir Roth</author>
+<title>BOLT: Energy-efficient Out-of-Order Latency-Tolerant execution.</title>
+<pages>1-12</pages>
+<year>2010</year>
+<booktitle>HPCA</booktitle>
+<ee>http://dx.doi.org/10.1109/HPCA.2010.5416634</ee>
+<crossref>conf/hpca/2010</crossref>
+<url>db/conf/hpca/hpca2010.html#HiltonR10</url>
+</inproceedings>
+<proceedings mdate="2014-10-07" key="conf/hpca/2014">
+<title>20th IEEE International Symposium on High Performance Computer Architecture, HPCA 2014, Orlando, FL, USA, February 15-19, 2014</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2014</year>
+<isbn>978-1-4799-3097-5</isbn>
+<ee>http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6823235</ee>
+<ee>http://www.computer.org/csdl/proceedings/hpca/2014/3097/00/index.html</ee>
+<booktitle>HPCA</booktitle>
+<url>db/conf/hpca/hpca2014.html</url>
+</proceedings>
+<book mdate="2012-03-14" key="series/faia/2009-203">
+<author>Martin Dzbor</author>
+<title>Design Problems, Frames and Innovative Solutions</title>
+<year>2009</year>
+<publisher>IOS Press</publisher>
+<series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+<volume>203</volume>
+<pages>1-253</pages>
+<isbn>978-1-60750-067-4</isbn>
+<ee>http://www.booksonline.iospress.nl/Content/View.aspx?piid=14185</ee>
+<url>http://www.booksonline.iospress.nl/Content/View.aspx?piid=14185</url>
+</book>
+<phdthesis mdate="2002-01-03" key="phd/Waterfeld91">
+<author>Walter Waterfeld</author>
+<title>Eine erweiterbare Speicher- und Zugriffskomponente f&uuml;r geowissenschaftliche Datenbanksysteme.</title>
+<year>1991</year>
+<school>Technische Universit&auml;t Darmstadt</school>
+</phdthesis>
+
+<phdthesis mdate="2002-01-03" key="phd/Ganguly92">
+<author>Sumit Ganguly</author>
+<title>Parallel Evaluation of Deductive Database Queries.</title>
+<year>1992</year>
+<school>University of Texas, Austin</school>
+</phdthesis>
+
+<phdthesis mdate="2012-04-18" key="phd/tw/Chang2008">
+<author>Fengming Chang</author>
+<title>Learning accuracy from limited data: using mega-fuzzification method to improve small data set learning accuracy for early flexible manufacturing system scheduling.</title>
+<year>2008</year>
+<school>Tainan, National Cheng Kung Univ.</school>
+<pages>1-67</pages>
+<isbn>978-3-8364-8603-3</isbn>
+<note type="dnb">http://d-nb.info/989267156</note>
+</phdthesis>
+<phdthesis mdate="2012-04-18" key="phd/tw/Chou2008">
+<author>Chang-Chien Chou</author>
+<title>Minimum traversal path of n circles: path planning of circles, computing and constructing paths of circles, geometrical optimization.</title>
+<year>2008</year>
+<school>Taipei, National Taiwan Univ. of Science and Technology</school>
+<pages>1-96</pages>
+<isbn>978-3-8364-9611-7</isbn>
+<note type="dnb">http://d-nb.info/991344146</note>
+</phdthesis>
+<article mdate="2011-10-20" key="journals/tcas/Tavakoli-KakhkiHT11">
+<author>Mahsan Tavakoli-Kakhki</author>
+<author>Mohammad Haeri</author>
+<author>Mohammad Saleh Tavazoei</author>
+<title>Notes on the State Space Realizations of Rational Order Transfer Functions.</title>
+<pages>1099-1108</pages>
+<year>2011</year>
+<volume>58-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>5</number>
+<ee>http://dx.doi.org/10.1109/TCSI.2010.2090568</ee>
+<url>db/journals/tcas/tcasI58.html#Tavakoli-KakhkiHT11</url>
+</article>
+<article mdate="2012-09-25" key="journals/tcas/ZhangWA12">
+<author>Chengjun Zhang</author>
+<author>Chunyan Wang</author>
+<author>M. Omair Ahmad</author>
+<title>A Pipeline VLSI Architecture for Fast Computation of the 2-D Discrete Wavelet Transform.</title>
+<pages>1775-1785</pages>
+<year>2012</year>
+<volume>59-I</volume>
+<journal>IEEE Trans. on Circuits and Systems</journal>
+<number>8</number>
+<ee>http://dx.doi.org/10.1109/TCSI.2011.2180432</ee>
+<url>db/journals/tcas/tcasI59.html#ZhangWA12</url>
+</article>
+<book mdate="2013-09-10" key="series/cogtech/354075170">
+<editor>Matthieu Cord</editor>
+<editor>P&aacute;draig Cunningham</editor>
+<title>Machine Learning Techniques for Multimedia - Case Studies on Organization and Retrieval</title>
+<year>2008</year>
+<publisher>Springer</publisher>
+<series href="db/series/cogtech/index.html">Cognitive Technologies</series>
+<ee>http://dx.doi.org/10.1007/978-3-540-75171-7</ee>
+<isbn>978-3-540-75170-0</isbn>
+<booktitle>Machine Learning Techniques for Multimedia</booktitle>
+<url>db/series/cogtech/354075170.html</url>
+</book>
+<article key="dblpnote/withdrawn" publtype="informal publication" mdate="2013-02-10">
+<title>(paper withdrawn)</title>
+</article>
+<incollection mdate="2013-09-10" key="series/cogtech/PaivaPMMVS04">
+<author>Ana Paiva</author>
+<author>Rui Prada</author>
+<author>Isabel Machado</author>
+<author>Carlos Martinho</author>
+<author>Marco Vala</author>
+<author>Andr&eacute; Silva</author>
+<title>Playing with Agents-Agents in Social and Dramatic Games.</title>
+<pages>361-376</pages>
+<year>2004</year>
+<booktitle>Life-like characters</booktitle>
+<crossref>series/cogtech/354000867</crossref>
+<url>db/series/cogtech/354000867.html#PaivaPMMVS04</url>
+</incollection>
+<book mdate="2011-08-11" key="series/cogtech/Helbig2006">
+<author>Hermann Helbig</author>
+<title>Knowledge Representation and the Semantics of Natural Language</title>
+<series href="db/series/cogtech/index.html">Cognitive Technologies</series>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>978-3-540-24461-5</isbn>
+<ee>http://dx.doi.org/10.1007/3-540-29966-1</ee>
+<url>db/series/cogtech/index.html#Helbig2006</url>
+</book>
+<www mdate="2002-01-03" key="www/org/mitre/future">
+<author>Arnon Rosenthal</author>
+<title>The Future of Classic Data Administration: Objects + Databases + CASE</title>
+<booktitle>SWEE</booktitle>
+<year>1998</year>
+<url>http://www.mitre.org/support/swee/rosenthal.html</url>
+</www>
+<incollection mdate="2013-09-10" key="series/cogtech/GelbartBSPBM06">
+<author>David Gelbart</author>
+<author>John Bryant</author>
+<author>Andreas Stolcke</author>
+<author>Robert Porzel</author>
+<author>Manja Baudis</author>
+<author>Nelson Morgan</author>
+<title>SmartKom-English: From Robust Recognition to Felicitous Interaction.</title>
+<pages>453-470</pages>
+<year>2006</year>
+<booktitle>SmartKom</booktitle>
+<ee>http://dx.doi.org/10.1007/3-540-36678-4_29</ee>
+<crossref>series/cogtech/54023732</crossref>
+<url>db/series/cogtech/54023732.html#GelbartBSPBM06</url>
+</incollection>
+
+<phdthesis key="books/daglib/0012775" mdate="2011-03-23">
+<author>Sylviane R. Schwer</author>
+<title>
+Decidabilite de l'algebricite de langages associes aux reseaux de Petri.
+</title>
+<school>Univ. Paris VII</school>
+<year>1985</year>
+</phdthesis>
+<inproceedings mdate="2006-02-10" key="conf/siguccs/BoysenG97">
+<author>Pete Boysen</author>
+<author>Mark J. Van Gorp</author>
+<title>Classnet: automated support of web classes.</title>
+<pages>35-44</pages>
+<year>1997</year>
+<crossref>conf/siguccs/1997</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>http://doi.acm.org/10.1145/266064.266082</ee>
+<url>db/conf/siguccs/siguccs1997.html#BoysenG97</url>
+</inproceedings>
+<inproceedings mdate="2006-02-10" key="conf/siguccs/Krupa01">
+<author>Todd Krupa</author>
+<title>Triple play: delivering effective &amp; key communication.</title>
+<pages>73-79</pages>
+<year>2001</year>
+<crossref>conf/siguccs/2001</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>http://doi.acm.org/10.1145/500956.500976</ee>
+<url>db/conf/siguccs/siguccs2001.html#Krupa01</url>
+</inproceedings>
+<book mdate="2013-12-03" key="series/cogtech/Gabbay13">
+<author>Dov M. Gabbay</author>
+<title>Reactive Kripke Semantics</title>
+<year>2013</year>
+<pages>1-430</pages>
+<publisher>Springer</publisher>
+<series href="db/series/cogtech/index.html">Cognitive Technologies</series>
+<isbn>978-3-642-41388-9</isbn>
+<ee>http://dx.doi.org/10.1007/978-3-642-41389-6</ee>
+<url>http://dx.doi.org/10.1007/978-3-642-41389-6</url>
+</book>
+<incollection mdate="2013-09-10" key="series/cogtech/SeisslerSSD13">
+<author>Marc Sei&szlig;ler</author>
+<author>Peter Stephan</author>
+<author>Jochen Schlick</author>
+<author>Ines Dahmann</author>
+<title>DPM Mapper: A Concept to Bridge the Gap Between XML-Based Digital Product Memories and Their Binary Representation.</title>
+<pages>149-161</pages>
+<year>2013</year>
+<booktitle>SemProM</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-37377-0_9</ee>
+<crossref>series/cogtech/364237376</crossref>
+<url>db/series/cogtech/364237376.html#SeisslerSSD13</url>
+</incollection>
+<inproceedings mdate="2003-07-29" key="conf/siguccs/Jones02a">
+<author>Allan R. Jones</author>
+<title>Student technology fellows program: teaching teachers the technology.</title>
+<pages>254-255</pages>
+<year>2002</year>
+<booktitle>SIGUCCS</booktitle>
+<ee>http://doi.acm.org/10.1145/588646.588712</ee>
+<url>db/conf/siguccs/siguccs2002.html#Jones02a</url>
+</inproceedings>
+<article mdate="2013-12-15" key="journals/irob/MaseyGDC10">
+<author>Ren&eacute; J. Moreno Masey</author>
+<author>John O. Gray</author>
+<author>Tony J. Dodd</author>
+<author>Darwin G. Caldwell</author>
+<title>Guidelines for the design of low-cost robots for the food industry.</title>
+<pages>509-517</pages>
+<year>2010</year>
+<volume>37</volume>
+<journal>Industrial Robot</journal>
+<number>6</number>
+<ee>http://dx.doi.org/10.1108/01439911011081650</ee>
+<url>db/journals/irob/irob37.html#MaseyGDC10</url>
+</article>
+<article mdate="2013-12-14" key="journals/irob/LiuX11">
+<author>Yong Liu</author>
+<author>Ning Xi</author>
+<title>Low-cost and automated calibration method for joint offset of industrial robot using single-point constraint.</title>
+<pages>577-584</pages>
+<year>2011</year>
+<volume>38</volume>
+<journal>Industrial Robot</journal>
+<number>6</number>
+<ee>http://dx.doi.org/10.1108/01439911111179093</ee>
+<url>db/journals/irob/irob38.html#LiuX11</url>
+</article>
+<article mdate="2013-12-15" key="journals/irob/Mortimer09a">
+<author>John Mortimer</author>
+<title>Robots boost for GMM van production.</title>
+<pages>121-122</pages>
+<year>2009</year>
+<volume>36</volume>
+<journal>Industrial Robot</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1108/01439910910932568</ee>
+<url>db/journals/irob/irob36.html#Mortimer09a</url>
+</article>
+<inproceedings mdate="2006-03-14" key="conf/siguccs/WilsonL99">
+<author>John H. Wilson</author>
+<author>James Lackey</author>
+<title>Statistical approach to lab management or how to add finesse to managing labs (poster).</title>
+<pages>248-251</pages>
+<year>1999</year>
+<crossref>conf/siguccs/1999</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>http://doi.acm.org/10.1145/337043.337179</ee>
+<url>db/conf/siguccs/siguccs1999.html#WilsonL99</url>
+</inproceedings>
+<www mdate="2012-11-16" key="www/de/kts">
+<editor>Klaus Tschira</editor>
+<title>Klaus Tschira Stiftung gemeinn&uuml;tzige GmbH, KTS</title>
+<ee>http://www.klaus-tschira-stiftung.de/</ee>
+<url>http://www.klaus-tschira-stiftung.de/</url>
+<year>2012</year>
+</www>
+<inproceedings mdate="2007-01-26" key="conf/siguccs/Timmins06">
+<author>Steven J. Timmins</author>
+<title>Student computing purchase programs.</title>
+<pages>397-402</pages>
+<year>2006</year>
+<crossref>conf/siguccs/2006</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>http://doi.acm.org/10.1145/1181216.1181301</ee>
+<url>db/conf/siguccs/siguccs2006.html#Timmins06</url>
+</inproceedings>
+<inproceedings key="conf/pods/Hull97" mdate="2012-09-17">
+<crossref>conf/pods/97</crossref>
+<author>Richard Hull</author>
+<title>
+Managing Semantic Heterogeneity in Databases: A Theoretical Perspective.
+</title>
+<pages>51-61</pages>
+<year>1997</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods97.html#Hull97</url>
+<ee>http://doi.acm.org/10.1145/263661.263668</ee>
+<cdrom>journals/anthology/cd1-3:PODS97/P051.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS97/P051.PDF</cdrom>
+<cite label="AABM82">journals/tcs/AtzeniABM82</cite>
+<cite label="AB91">conf/sigmod/AbiteboulB91</cite>
+<cite label="Abi97">conf/icdt/Abiteboul97</cite>
+<cite label="ACHK93">journals/ijcis/ArensCHK93</cite>
+<cite label="ACM90">...</cite>
+<cite label="AGS87">journals/debu/AlonsoGS87</cite>
+<cite label="AH88">journals/tcs/AbiteboulH88</cite>
+<cite label="AHV95">books/aw/AbiteboulHV95</cite>
+<cite label="AIR97">conf/pods/AlbertIR97</cite>
+<cite label="AK89">conf/sigmod/AbiteboulK89</cite>
+<cite label="ANRS92">conf/vldb/AnsariNRS92</cite>
+<cite label="AT93">journals/is/AtzeniT93</cite>
+<cite label="AV88">conf/pods/AbiteboulV88</cite>
+<cite label="AV90">journals/jcss/AbiteboulV90</cite>
+<cite label="B+81">journals/tods/BernsteinGWRR81</cite>
+<cite label="BBMR89">conf/sigmod/BorgidaBMR89</cite>
+<cite label="BDFS97">conf/icdt/BunemanDFS97</cite>
+<cite label="BDHO95">conf/vldb/BunemanDHOW95</cite>
+<cite label="BDW91">journals/jcss/BunemanDW91</cite>
+<cite label="BGS92">journals/vldb/BreitbartGS92</cite>
+<cite label="BHM90">conf/sigmod/BernsteinHM90</cite>
+<cite label="BK91">journals/csur/BarghoutiK91</cite>
+<cite label="BLN86">journals/csur/BatiniL86</cite>
+<cite label="BLT86">conf/sigmod/BlakeleyLT86</cite>
+<cite label="BMSU81">journals/siamcomp/BeeriMSU81</cite>
+<cite label="BOT86">conf/icde/BreitbartOT86</cite>
+<cite label="Bre90">journals/sigmod/Breitbart90</cite>
+<cite label="BS81">journals/tods/BancilhonS81</cite>
+<cite label="Bun97">conf/pods/Buneman97</cite>
+<cite label="Cat93">books/mk/Cattell93</cite>
+<cite label="CGH+94">conf/ipsj/ChawatheGHPUW94</cite>
+<cite label="CGL+96">conf/sigmod/ColbyGLMT96</cite>
+<cite label="CH+95a">conf/ride/CareyHSACFFLNPTWW95</cite>
+<cite label="CH95b">conf/pods/ChangH95</cite>
+<cite label="CKW89">conf/slp/ChenKW89</cite>
+<cite label="CR90">conf/sigmod/ChrysanthisR90</cite>
+<cite label="CW91">conf/vldb/CeriW91</cite>
+<cite label="CW92">...</cite>
+<cite label="CW93">conf/vldb/CeriW93</cite>
+<cite label="Dat95">books/aw/Date95</cite>
+<cite label="Day89">conf/dbpl/Dayal89</cite>
+<cite label="DD93">books/aw/DateD93</cite>
+<cite label="DH84">journals/tse/DayalH84</cite>
+<cite label="DHL91">conf/vldb/DayalHL91</cite>
+<cite label="DHR96">conf/sigmod/DohertyHR96</cite>
+<cite label="Ell79">...</cite>
+<cite label="ELM95">...</cite>
+<cite label="Fag82">journals/jacm/Fagin82</cite>
+<cite label="Fag96">conf/pods/Fagin96</cite>
+<cite label="FFP96">...</cite>
+<cite label="FFR96">...</cite>
+<cite label="FHMS91">...</cite>
+<cite label="Gen91">conf/kr/Genesereth91</cite>
+<cite label="GHJ96">journals/tods/GhandeharizadehHJ96</cite>
+<cite label="GHS95">journals/dpd/GeorgakopoulosHS95</cite>
+<cite label="GJM96">conf/edbt/GuptaJM96</cite>
+<cite label="GK94">journals/cacm/GeneserethK94</cite>
+<cite label="GL95">conf/sigmod/GriffinL95</cite>
+<cite label="GLS96">conf/pods/GyssensLS96</cite>
+<cite label="GMS93">conf/sigmod/GuptaMS93</cite>
+<cite label="Gru93">...</cite>
+<cite label="GSS94">...</cite>
+<cite label="Gun92">journals/tcs/Gunter92</cite>
+<cite label="Gup89">...</cite>
+<cite label="GZ82">journals/jacm/GinsburgZ82</cite>
+<cite label="HBG+97">conf/sigmod/HammerGNYBV97</cite>
+<cite label="HM85">journals/tois/HeimbignerM85</cite>
+<cite label="HM93">journals/ijcis/HammerM93</cite>
+<cite label="HS91">conf/icde/HsuS91</cite>
+<cite label="HS93">journals/jcss/HullS93</cite>
+<cite label="Hul84">journals/jacm/Hull84</cite>
+<cite label="Hul86">journals/siamcomp/Hull86</cite>
+<cite label="HY84">journals/jacm/HullY84</cite>
+<cite label="HY90">conf/vldb/HullY90</cite>
+<cite label="HZ96">conf/sigmod/HullZ96</cite>
+<cite label="I3-95">...</cite>
+<cite label="IK93">...</cite>
+<cite label="JK84">journals/jcss/JohnsonK84</cite>
+<cite label="KAAK93">conf/ds/KentAAKS92</cite>
+<cite label="Kai95">...</cite>
+<cite label="Kal93">conf/ride/Kalinichenko93</cite>
+<cite label="KCGS95">...</cite>
+<cite label="Kel86">journals/computer/Keller86</cite>
+<cite label="KH96">journals/jiis/KuokkaH96</cite>
+<cite label="Kim95">books/acm/Kim95</cite>
+<cite label="KK95">...</cite>
+<cite label="KKS92">conf/sigmod/KiferKS92</cite>
+<cite label="KS91">...</cite>
+<cite label="Lib95">conf/icdt/Libkin95</cite>
+<cite label="LMR90">journals/csur/LitwinMR90</cite>
+<cite label="LMSS95a">conf/pods/LevyMSS95</cite>
+<cite label="LMSS95b">conf/sigmod/LuMSS95</cite>
+<cite label="LRO96">conf/vldb/LevyRO96</cite>
+<cite label="LRU96">conf/pods/LevyRU96</cite>
+<cite label="MAGK95">journals/debu/MohanAGK95</cite>
+<cite label="MFO90">conf/aaai/McKayFO90</cite>
+<cite label="MIR93">conf/vldb/MillerIR93</cite>
+<cite label="MIR94">journals/is/MillerIR94</cite>
+<cite label="MR92">...</cite>
+<cite label="MS92">journals/tods/MarkowitzS92</cite>
+<cite label="MWF92">...</cite>
+<cite label="MY95">...</cite>
+<cite label="OMG">...</cite>
+<cite label="PFPS+92">conf/kr/PatilFPMFGN92</cite>
+<cite label="PKH88">conf/vldb/PuKH88</cite>
+<cite label="Rei84">...</cite>
+<cite label="Ros92">conf/pods/Ross92</cite>
+<cite label="RPR89">...</cite>
+<cite label="RR93">conf/popl/RamalingamR93</cite>
+<cite label="RS95">...</cite>
+<cite label="RSK91">journals/computer/RusinkiewiczSK91</cite>
+<cite label="RSS96">conf/sigmod/RossSS96</cite>
+<cite label="SA95">...</cite>
+<cite label="SAL+96">journals/vldb/StonebrakerALPSSSY96</cite>
+<cite label="SAP97">...</cite>
+<cite label="SK95">...</cite>
+<cite label="SL90">journals/csur/ShethL90</cite>
+<cite label="Sta95">journals/sigmod/Stacey95</cite>
+<cite label="Suc96">conf/vldb/Suciu96</cite>
+<cite label="Syb97">...</cite>
+<cite label="T+90">journals/csur/ThomasTCBCTFH90</cite>
+<cite label="TBC+87">...</cite>
+<cite label="Tho95">...</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Ull97">conf/icdt/Ullman97</cite>
+<cite label="VGV93">conf/pods/BusscheGV93</cite>
+<cite label="WAC+93">conf/sigmod/WoelkACMSST93</cite>
+<cite label="WCH+93">conf/pdis/WoelkCHST93</cite>
+<cite label="WHW89">...</cite>
+<cite label="WHW90">conf/pos/WidjojoHW90</cite>
+<cite label="Wie92">journals/computer/Wiederhold92</cite>
+<cite label="Wie96a">journals/jiis/Wiederhold96</cite>
+<cite label="Wie96b">journals/jiis/Wiederhold96a</cite>
+<cite label="WW97">conf/icdt/WodtkeW97</cite>
+<cite label="WWWD96">conf/icde/WodtkeWWD96</cite>
+<cite label="ZGHW95">conf/sigmod/ZhugeGHW95</cite>
+<cite label="ZHK96">journals/jiis/ZhouHK96</cite>
+</inproceedings>
+
+<proceedings key="conf/pos/1985" mdate="2012-09-18">
+<editor>Malcolm P. Atkinson</editor>
+<editor>Peter Buneman</editor>
+<editor>Ronald Morrison</editor>
+<title>
+Data Types and Persistence. Edited Papers from the Proceedings of the First Workshop on Persistent Objects, Appin, Scotland, August 1985
+</title>
+<publisher>Springer</publisher>
+<series>Topics in Information Systems</series>
+<year>1988</year>
+<isbn>3-540-18785-5</isbn>
+<url>db/conf/db-workshops/appin85.html</url>
+<cite label="AB85">...</cite>
+<cite label="ABCCM81">...</cite>
+<cite label="ABCCM83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ABCCM84a">...</cite>
+<cite label="ABCCM84b">journals/spe/CockshottACBM84</cite>
+<cite label="ABM85">...</cite>
+<cite label="ABN85">...</cite>
+<cite label="ACC81">...</cite>
+<cite label="ACC83a">journals/spe/AtkinsonCC83</cite>
+<cite label="ACC83b">journals/spe/AtkinsonCCM83</cite>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="AF82">...</cite>
+<cite label="AFL85">...</cite>
+<cite label="AGO85">conf/db-workshops/AlbanoGO85</cite>
+<cite label="AGOP85">...</cite>
+<cite label="AHU74">books/aw/AhoHU74</cite>
+<cite label="AI87">...</cite>
+<cite label="AITK84a">...</cite>
+<cite label="AITK84b">...</cite>
+<cite label="AITK85">conf/db-workshops/Ait-KaciN85</cite>
+<cite label="ALBA83">...</cite>
+<cite label="ALLC83">...</cite>
+<cite label="ALN86">...</cite>
+<cite label="ALN87">...</cite>
+<cite label="ALS78">journals/tse/AndersonLS78</cite>
+<cite label="AM83">conf/podc/AllchinM83</cite>
+<cite label="AM84">conf/fsttcs/AtkinsonM84</cite>
+<cite label="AM85a">journals/toplas/AtkinsonM85</cite>
+<cite label="AM285">conf/db-workshops/AtkinsonM85</cite>
+<cite label="AN86a">conf/popl/Ait-KaciN86</cite>
+<cite label="AN86b">journals/jlp/Ait-KaciN86</cite>
+<cite label="AN86c">...</cite>
+<cite label="AN87a">...</cite>
+<cite label="AN87b">conf/parle/ArvindN87</cite>
+<cite label="ANDE79">...</cite>
+<cite label="ANP87a">...</cite>
+<cite label="ANP87b">journals/toplas/ArvindNP89</cite>
+<cite label="ANS86">conf/sigir/Ait-KaciNS88</cite>
+<cite label="AOO82">...</cite>
+<cite label="AOO86">...</cite>
+<cite label="AS81">...</cite>
+<cite label="ATKI78">conf/vldb/Atkinson78</cite>
+<cite label="BA86">conf/sigmod/BunemanA86</cite>
+<cite label="BAKE78">journals/cacm/Baker78</cite>
+<cite label="BANC85">conf/db-workshops/Bancilhon85</cite>
+<cite label="BDMN73">...</cite>
+<cite label="BFL83">journals/computer/BrachmanFL83</cite>
+<cite label="BFN82">journals/tods/BunemanFN82</cite>
+<cite label="BG80">conf/vldb/BernsteinG80a</cite>
+<cite label="BG83">journals/tods/BernsteinG83</cite>
+<cite label="BGL81">conf/berkeley/BernsteinGL81</cite>
+<cite label="BMS80">conf/lfp/BurstallMS80</cite>
+<cite label="BMS84">conf/db-workshops/Intervale</cite>
+<cite label="BMW84">conf/db-workshops/BorgidaMW82</cite>
+<cite label="BORG85">journals/tods/Borgida85</cite>
+<cite label="BOUR78">...</cite>
+<cite label="BR81">journals/acta/BestR81</cite>
+<cite label="BR84">conf/db-workshops/BrodieR82</cite>
+<cite label="BRIN75">journals/tse/Hansen75</cite>
+<cite label="BROO82">journals/cj/Brooker82</cite>
+<cite label="BS83">...</cite>
+<cite label="BSW79">journals/tse/BernsteinSW79</cite>
+<cite label="BUNE84">...</cite>
+<cite label="BUNE85">conf/db-workshops/Buneman85</cite>
+<cite label="CARD83a">...</cite>
+<cite label="CARD83b">...</cite>
+<cite label="CARD84">...</cite>
+<cite label="CARD85">...</cite>
+<cite label="CARD86">journals/scp/Cardelli87</cite>
+<cite label="CCA83">...</cite>
+<cite label="CH74">...</cite>
+<cite label="CHAL82">...</cite>
+<cite label="CHEN76">journals/tods/Chen76</cite>
+<cite label="CHIU82">...</cite>
+<cite label="CHUR40">...</cite>
+<cite label="CM81">books/sp/ClocksinM81</cite>
+<cite label="CM85">conf/db-workshops/CardelliM85</cite>
+<cite label="COCK84">...</cite>
+<cite label="COCK85">conf/db-workshops/Cockshott85</cite>
+<cite label="CODD70">journals/cacm/Codd70</cite>
+<cite label="CODD71a">persons/Codd71a</cite>
+<cite label="CODD71b">persons/Codd72</cite>
+<cite label="CODD79">journals/tods/Codd79</cite>
+<cite label="CORM83">...</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="DATE83a">books/aw/Date83</cite>
+<cite label="DATE83b">conf/icod/Date83</cite>
+<cite label="DATE86">books/aw/Date86</cite>
+<cite label="DAVI73">...</cite>
+<cite label="DAVI78">journals/ibmsj/Davies78</cite>
+<cite label="DD79">...</cite>
+<cite label="DD80a">...</cite>
+<cite label="DD80b">conf/popl/DemersD80</cite>
+<cite label="DH72">...</cite>
+<cite label="DHIL85">...</cite>
+<cite label="DIJK68">...</cite>
+<cite label="DK79">journals/cacm/DeliyanniK79</cite>
+<cite label="DN66">...</cite>
+<cite label="DUEC83">...</cite>
+<cite label="EEKMS85">...</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="FAIR82">...</cite>
+<cite label="FAIR85">conf/db-workshops/Fairbairn85</cite>
+<cite label="FI73">journals/ibmrd/FalkoffI73</cite>
+<cite label="FIND79">...</cite>
+<cite label="GHEL85">...</cite>
+<cite label="GM78">conf/adbt/77</cite>
+<cite label="GMN84">journals/csur/GallaireMN84</cite>
+<cite label="GMN79">...</cite>
+<cite label="GOGU83">...</cite>
+<cite label="GR83">books/aw/GoldbergR83</cite>
+<cite label="GRAY78">conf/ac/Gray78</cite>
+<cite label="HARP85">conf/db-workshops/Harper85</cite>
+<cite label="HARP86">...</cite>
+<cite label="HB80">conf/sigmod/HammerB80</cite>
+<cite label="HL83">journals/cacm/LiebermanH83</cite>
+<cite label="HM81">journals/tods/HammerM81</cite>
+<cite label="HMM86">...</cite>
+<cite label="HOAR74">journals/cacm/Hoare74</cite>
+<cite label="HUET76">...</cite>
+<cite label="IBM">...</cite>
+<cite label="ICHB83">...</cite>
+<cite label="JW78">books/sp/JensenW75</cite>
+<cite label="KAEH81">...</cite>
+<cite label="KMPRSZ83">...</cite>
+<cite label="KNUT73">books/aw/Knuth73a</cite>
+<cite label="KNUT79">...</cite>
+<cite label="KORT81">...</cite>
+<cite label="KOWA78">conf/adbt/Kowalski77</cite>
+<cite label="KR81">journals/tods/KungR81</cite>
+<cite label="KRAB75">...</cite>
+<cite label="LAMP81">conf/ac/Lampson80</cite>
+<cite label="LAND66">...</cite>
+<cite label="LHJLSW83">...</cite>
+<cite label="LISK81">books/sp/Liskov81</cite>
+<cite label="LISK82">journals/tse/Liskov82</cite>
+<cite label="LS83">journals/toplas/LiskovS83</cite>
+<cite label="LISK84">conf/ac/Liskov84</cite>
+<cite label="LORI77">journals/tods/Lorie77</cite>
+<cite label="LNCS84">...</cite>
+<cite label="LYNC82">conf/pods/Lynch83</cite>
+<cite label="LZ74">journals/sigplan/LiskovZ74</cite>
+<cite label="MACQ85">conf/lfp/MacQueen84</cite>
+<cite label="MACQ86">conf/popl/MacQueen86</cite>
+<cite label="MATT85a">...</cite>
+<cite label="MATT85">conf/db-workshops/Matthews85</cite>
+<cite label="MBW80">journals/tods/MylopoulosBW80</cite>
+<cite label="MCAR62">...</cite>
+<cite label="MD85">...</cite>
+<cite label="MERR77">journals/ipl/Merrett77</cite>
+<cite label="MERR84">...</cite>
+<cite label="MERR85a">conf/icod/Merrett83</cite>
+<cite label="MERR85">conf/db-workshops/Merrett85</cite>
+<cite label="MILN78">journals/jcss/Milner78</cite>
+<cite label="MILN80">books/sp/Milner80</cite>
+<cite label="MILN84">conf/lfp/Milner84</cite>
+<cite label="MILN85">...</cite>
+<cite label="MINS75">...</cite>
+<cite label="MITC79">...</cite>
+<cite label="MM79">...</cite>
+<cite label="MOSS81">...</cite>
+<cite label="MP84">...</cite>
+<cite label="MP85">conf/popl/MitchellP85</cite>
+<cite label="MS82">conf/lfp/MacQueenS82</cite>
+<cite label="MSP84">conf/popl/MacQueenPS84</cite>
+<cite label="MW80">conf/vldb/MylopoulosW80</cite>
+<cite label="NAUR63">...</cite>
+<cite label="NIKH84">...</cite>
+<cite label="NIKH87">...</cite>
+<cite label="ORGA84">...</cite>
+<cite label="PS85">...</cite>
+<cite label="REED78">...</cite>
+<cite label="REIS84">conf/sde/Reiss84</cite>
+<cite label="REISS">...</cite>
+<cite label="REIT84">conf/db-workshops/Reiter82</cite>
+<cite label="REYN70">...</cite>
+<cite label="REYN85">conf/tapsoft/Reynolds85</cite>
+<cite label="REYN86">...</cite>
+<cite label="ROBI65">journals/jacm/Robinson65</cite>
+<cite label="ROWE80">...</cite>
+<cite label="RS79">conf/sigmod/RoweS79</cite>
+<cite label="SCHM77">journals/tods/Schmidt77</cite>
+<cite label="SCHM78">conf/jcdkb/Schmidt78</cite>
+<cite label="SCHW84">...</cite>
+<cite label="SCOT82">conf/icalp/Scott82</cite>
+<cite label="SF">...</cite>
+<cite label="SFL81">...</cite>
+<cite label="SFL83">...</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="SHOP79">journals/tods/Shopiro79</cite>
+<cite label="SOLT81">...</cite>
+<cite label="SS77">journals/tods/SmithS77</cite>
+<cite label="SS84">journals/tocs/SchwarzS84</cite>
+<cite label="STON84">conf/db-workshops/Stonebraker82a</cite>
+<cite label="TENN77">journals/acta/Tennent77</cite>
+<cite label="TURN79">...</cite>
+<cite label="TURN81">...</cite>
+<cite label="ULLM82">books/cs/Ullman82</cite>
+<cite label="VANR83">...</cite>
+<cite label="VANW75">journals/acta/WijngaardenMPKSLMF75</cite>
+<cite label="VERH76">...</cite>
+<cite label="WARR83">...</cite>
+<cite label="WEIH83">conf/podc/Weihl83</cite>
+<cite label="WEIH84">...</cite>
+<cite label="WEIH85">conf/db-workshops/Weihl85</cite>
+<cite label="WIRT71">journals/acta/Wirth71</cite>
+<cite label="WL85">journals/toplas/WeihlL85</cite>
+<cite label="WSKRV81">...</cite>
+<cite label="XERO81">...</cite>
+<cite label="ZDON84">...</cite>
+<cite label="ZW85">...</cite>
+<cite label="ZW85">...</cite>
+</proceedings>
+
+<book key="books/aw/AbiteboulHV95" mdate="2013-03-17">
+<author>Serge Abiteboul</author>
+<author>Richard Hull</author>
+<author>Victor Vianu</author>
+<title>Foundations of Databases.</title>
+<publisher>Addison-Wesley</publisher>
+<year>1995</year>
+<isbn>0-201-53771-0</isbn>
+<ee>http://www-cse.ucsd.edu/users/vianu/book.html</ee>
+<cdrom>AHV/Toc.pdf</cdrom>
+<cite label="57391">...</cite>
+<cite label="69392">...</cite>
+<cite label="A+76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="AA93">books/bc/AtzeniA93</cite>
+<cite label="AABM82">journals/tcs/AtzeniABM82</cite>
+<cite label="AB86">journals/jcss/AbiteboulB86</cite>
+<cite label="AB87a">journals/csur/AtkinsonB87</cite>
+<cite label="AB87b">conf/pods/AtzeniB87</cite>
+<cite label="AB88">journals/vldb/AbiteboulB95</cite>
+<cite label="AB91">conf/sigmod/AbiteboulB91</cite>
+<cite label="ABD+89">conf/dood/AtkinsonBDDMZ89</cite>
+<cite label="ABGO93">conf/vldb/AlbanoBGO93</cite>
+<cite label="Abi83">...</cite>
+<cite label="Abi88">conf/icdt/Abiteboul88</cite>
+<cite label="Abi89">journals/ipl/Abiteboul89</cite>
+<cite label="Abr74">conf/ds/Abrial74</cite>
+<cite label="ABU79">journals/tods/AhoBU79</cite>
+<cite label="ABW88">books/mk/minker88/AptBW88</cite>
+<cite label="AC78">conf/vldb/AroraC78</cite>
+<cite label="AC89">conf/stoc/AfratiC89</cite>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="ACY91">conf/pods/AfratiCY91</cite>
+<cite label="ADM85">conf/pods/AusielloDM85</cite>
+<cite label="AG85">conf/vldb/AbiteboulG85</cite>
+<cite label="AG87">journals/jacm/AjtaiG87</cite>
+<cite label="AG89">conf/focs/AjtaiG89</cite>
+<cite label="AG91">journals/tods/AbiteboulG91</cite>
+<cite label="AGM85">...</cite>
+<cite label="AGSS86">...</cite>
+<cite label="AH87">journals/tods/AbiteboulH87</cite>
+<cite label="AH88">conf/sigmod/AbiteboulH88</cite>
+<cite label="AH91">...</cite>
+<cite label="AK89">conf/sigmod/AbiteboulK89</cite>
+<cite label="AKG91">journals/tcs/AbiteboulKG91</cite>
+<cite label="AKRW92">journals/jcss/AbiteboulKRW95</cite>
+<cite label="ALUW93">conf/sigmod/AbiteboulLUW93</cite>
+<cite label="AP82">conf/pods/AtzeniP82</cite>
+<cite label="AP87a">conf/pods/AfratiP87</cite>
+<cite label="AP87b">conf/pods/AptP87</cite>
+<cite label="AP92">conf/wg/AndriesP91</cite>
+<cite label="APP+86">conf/pods/AfratiPPRSU86</cite>
+<cite label="Apt91">books/el/leeuwen90/Apt90</cite>
+<cite label="Arm74">conf/ifip/Armstrong74</cite>
+<cite label="ASSU81">journals/siamcomp/AhoSSU81</cite>
+<cite label="ASU79a">journals/tods/AhoSU79</cite>
+<cite label="ASU79b">journals/siamcomp/AhoSU79</cite>
+<cite label="ASV90">conf/pods/AbiteboulSV90</cite>
+<cite label="AT93">journals/is/AtzeniT93</cite>
+<cite label="AU79">conf/popl/AhoU79</cite>
+<cite label="AV87">conf/pods/AbiteboulV87</cite>
+<cite label="AV88a">conf/jcdkb/AbiteboulV88</cite>
+<cite label="AV88b">journals/jacm/AbiteboulV88</cite>
+<cite label="AV88c">conf/pods/AbiteboulV88</cite>
+<cite label="AV89">journals/jacm/AbiteboulV89</cite>
+<cite label="AV90">journals/jcss/AbiteboulV90</cite>
+<cite label="AV91a">journals/jcss/AbiteboulV91</cite>
+<cite label="AV91b">conf/stoc/AbiteboulV91</cite>
+<cite label="AV91c">journals/amai/AbiteboulV91</cite>
+<cite label="AV94">journals/jcss/AbiteboulV95</cite>
+<cite label="AvE82">journals/jacm/AptE82</cite>
+<cite label="AVV92">conf/coco/AbiteboulVV92</cite>
+<cite label="AW88">conf/iclp/AptB88</cite>
+<cite label="B+86">conf/oopsla/BobrowKKMSZ86</cite>
+<cite label="B+88">journals/tse/BatoryBGSTTW88</cite>
+<cite label="Ban78">conf/mfcs/Bancilhon78</cite>
+<cite label="Ban85">...</cite>
+<cite label="Ban86">conf/db-workshops/Bancilhon85</cite>
+<cite label="Bar63">books/el/leeuwen90/Barendregt90</cite>
+<cite label="Bar84">...</cite>
+<cite label="BB79">journals/tods/BeeriB79</cite>
+<cite label="BB91">books/el/leeuwen90/BerstelB90</cite>
+<cite label="BB92">conf/icdt/BeneventanoB92</cite>
+<cite label="BBC80">conf/vldb/BernsteinBC80</cite>
+<cite label="BBG78">conf/vldb/BeeriBG78</cite>
+<cite label="BBMR89">conf/sigmod/BorgidaBMR89</cite>
+<cite label="BC79">journals/tods/BunemanC79</cite>
+<cite label="BC81">journals/jacm/BernsteinC81</cite>
+<cite label="BCD89">conf/dbpl/BancilhonCD89</cite>
+<cite label="BCW93">books/bc/tanselCGSS93/BaudinetCW93</cite>
+<cite label="BDB79">conf/sigmod/BiskupDB79</cite>
+<cite label="BDFS84">journals/jacm/BeeriDFS84</cite>
+<cite label="BDK92">books/mk/BancilhonDK92</cite>
+<cite label="BDM88">conf/edbt/BryDM88</cite>
+<cite label="BDW88">conf/pods/BunemanDW88</cite>
+<cite label="BDW91">journals/jcss/BunemanDW91</cite>
+<cite label="Bee80">journals/tods/Beeri80</cite>
+<cite label="Bee90">journals/dke/Beeri90</cite>
+<cite label="Ber76a">...</cite>
+<cite label="Ber76b">journals/tods/Bernstein76</cite>
+<cite label="BF87">conf/lics/BidoitF87</cite>
+<cite label="BF88">journals/iandc/BidoitF91</cite>
+<cite label="BFH77">conf/sigmod/BeeriFH77</cite>
+<cite label="BFM+81">conf/stoc/BeeriFMMUY81</cite>
+<cite label="BFMY83">journals/jacm/BeeriFMY83</cite>
+<cite label="BFN82">journals/tods/BunemanFN82</cite>
+<cite label="BG81">journals/siamcomp/BernsteinG81</cite>
+<cite label="BGK85">journals/iandc/BlassGK85</cite>
+<cite label="BGL85">conf/ijcai/BrachmanGL85</cite>
+<cite label="BGW+81">journals/tods/BernsteinGWRR81</cite>
+<cite label="BHG87">books/aw/BernsteinHG87</cite>
+<cite label="Bid91a">...</cite>
+<cite label="Bid91b">journals/tcs/Bidoit91</cite>
+<cite label="Bis80">journals/tcs/Biskup80</cite>
+<cite label="Bis81">conf/adbt/Biskup79</cite>
+<cite label="Bis83">journals/tods/Biskup83</cite>
+<cite label="BJO91">journals/tcs/BunemanJO91</cite>
+<cite label="BK86">journals/tods/BeeriK86</cite>
+<cite label="BKBR87">conf/pods/BeeriKBR87</cite>
+<cite label="BL90">conf/icdt/BidoitL90</cite>
+<cite label="BLN86">journals/csur/BatiniL86</cite>
+<cite label="BLT86">conf/sigmod/BlakeleyLT86</cite>
+<cite label="BM91">conf/vldb/BeeriM91</cite>
+<cite label="BMG93">conf/sigmod/BlakeleyMG93</cite>
+<cite label="BMSU81">journals/siamcomp/BeeriMSU81</cite>
+<cite label="BMSU86">conf/pods/BancilhonMSU86</cite>
+<cite label="BNR+87a">conf/pods/BeeriNRST87</cite>
+<cite label="Bor85">journals/software/Borgida85</cite>
+<cite label="BP83">conf/icalp/BraP83</cite>
+<cite label="BPR87">conf/fgcs/BalbinMR88</cite>
+<cite label="BR80">...</cite>
+<cite label="BR87a">conf/pods/BeeriR87</cite>
+<cite label="BR87b">journals/jlp/BalbinR87</cite>
+<cite label="BR88a">conf/sigmod/BancilhonR86</cite>
+<cite label="BR88b">books/mk/minker88/BancilhonR88</cite>
+<cite label="BR91">journals/jlp/BeeriR91</cite>
+<cite label="BRS82">conf/vldb/BancilhonRS82</cite>
+<cite label="BRSS92">conf/pods/BeeriRSS92</cite>
+<cite label="Bry89">conf/dood/Bry89</cite>
+<cite label="BS81">journals/tods/BancilhonS81</cite>
+<cite label="BS85">journals/cogsci/BrachmanS85</cite>
+<cite label="BS93">journals/tods/BergamaschiS92</cite>
+<cite label="BST75">conf/sigmod/BernsteinST75</cite>
+<cite label="BTBN92">conf/dbpl/TannenBN91</cite>
+<cite label="BTBW92">conf/icdt/TannenBW92</cite>
+<cite label="BV80a">...</cite>
+<cite label="BV80b">journals/jacm/BeeriV84</cite>
+<cite label="BV81a">conf/icalp/BeeriV81</cite>
+<cite label="BV81b">conf/adbt/BeeriV79</cite>
+<cite label="BV84a">journals/siamcomp/BeeriV84</cite>
+<cite label="BV84b">journals/iandc/BeeriV84</cite>
+<cite label="BV84c">journals/jacm/BeeriV84</cite>
+<cite label="BV85">journals/tcs/BeeriV85</cite>
+<cite label="C+76">journals/ibmrd/ChamberlinAEGLMRW76</cite>
+<cite label="Cam92">...</cite>
+<cite label="Car88">journals/iandc/Cardelli88</cite>
+<cite label="Cat94">books/mk/Cattell94</cite>
+<cite label="CCCR+90">conf/sigmod/CacaceCCTZ90</cite>
+<cite label="CCF82">conf/vldb/CastilhoCF82</cite>
+<cite label="CF84">conf/adbt/CasanovaF82</cite>
+<cite label="CFI89">conf/focs/CaiFI89</cite>
+<cite label="CFP84">journals/jcss/CasanovaFP84</cite>
+<cite label="CGKV88">conf/stoc/CosmadakisGKV88</cite>
+<cite label="CGP93">conf/dood/CorciuloGP93</cite>
+<cite label="CGT90">books/sp/CeriGT90</cite>
+<cite label="CH80a">conf/focs/ChandraH80</cite>
+<cite label="CH80b">journals/jcss/ChandraH80</cite>
+<cite label="CH82">journals/jcss/ChandraH82</cite>
+<cite label="CH85">journals/jlp/ChandraH85</cite>
+<cite label="Cha81a">conf/popl/Chandra81</cite>
+<cite label="Cha81b">conf/adbt/Chang79</cite>
+<cite label="Cha88">conf/pods/Chandra88</cite>
+<cite label="Cha94">...</cite>
+<cite label="Che76">journals/tods/Chen76</cite>
+<cite label="CHM94">conf/ride/ChenHM94</cite>
+<cite label="Cho92a">conf/icde/Chomicki92</cite>
+<cite label="Cho92b">conf/pods/Chomicki92</cite>
+<cite label="Cho94">...</cite>
+<cite label="Chu41">...</cite>
+<cite label="CK73">...</cite>
+<cite label="CK85">conf/stoc/CosmadakisK85</cite>
+<cite label="CK86">journals/acr/CosmadakisK86</cite>
+<cite label="CKRP73">...</cite>
+<cite label="CKS86">journals/jcss/CosmadakisKS86</cite>
+<cite label="CKV90">journals/jacm/CosmadakisKV90</cite>
+<cite label="CL73">...</cite>
+<cite label="CL94">conf/pods/CalvaneseL94</cite>
+<cite label="Cla78">conf/adbt/Clark77</cite>
+<cite label="CLM81">conf/stoc/ChandraLM81</cite>
+<cite label="CM77">conf/stoc/ChandraM77</cite>
+<cite label="CM90">conf/pods/ConsensM90</cite>
+<cite label="CM93a">conf/sigmod/ConsensM93</cite>
+<cite label="CM93b">conf/icdt/ConsensM90</cite>
+<cite label="Cod70">journals/cacm/Codd70</cite>
+<cite label="Cod71">conf/sigmod/Codd71a</cite>
+<cite label="Cod72a">persons/Codd71a</cite>
+<cite label="Cod72b">persons/Codd72</cite>
+<cite label="Cod74">conf/ifip/Codd74</cite>
+<cite label="Cod75">...</cite>
+<cite label="Cod79">conf/sigmod/Codd79</cite>
+<cite label="Cod82">journals/cacm/Codd82</cite>
+<cite label="Coh86">...</cite>
+<cite label="Coh89">conf/sigmod/Cohen89</cite>
+<cite label="Coh90">journals/cacm/Cohen90</cite>
+<cite label="Com88">...</cite>
+<cite label="Coo74">journals/jcss/Cook74</cite>
+<cite label="Cos83">conf/pods/Cosmadakis83</cite>
+<cite label="Cos87">conf/focs/Cosmadakis87</cite>
+<cite label="Cou90">books/el/leeuwen90/Courcelle90a</cite>
+<cite label="CP84">journals/jacm/CosmadakisP84</cite>
+<cite label="CRG+88">conf/edbt/CeriCGLLTZ88</cite>
+<cite label="CT48">...</cite>
+<cite label="CT87">conf/vldb/CeriT87</cite>
+<cite label="CTF88">conf/vldb/CasanovaTF88</cite>
+<cite label="CV81">...</cite>
+<cite label="CV83">conf/pods/CasanovaV83</cite>
+<cite label="CV85">journals/siamcomp/ChandraV85</cite>
+<cite label="CV92">conf/pods/ChaudhuriV92</cite>
+<cite label="CV93">conf/pods/ChaudhuriV93</cite>
+<cite label="CV94">conf/pods/ChaudhuriV94</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="CW89a">conf/pods/ChenW89</cite>
+<cite label="CW89b">conf/pods/CohenW89</cite>
+<cite label="CW90">conf/vldb/CeriW90</cite>
+<cite label="CW91">conf/vldb/CeriW91</cite>
+<cite label="CW92">conf/iclp/ChenW92</cite>
+<cite label="CW93">conf/vldb/CeriW93</cite>
+<cite label="DA83">...</cite>
+<cite label="Dal87">conf/birthday/Dahlhaus87</cite>
+<cite label="Dat81">conf/vldb/Date81</cite>
+<cite label="Dat86">books/aw/Date86</cite>
+<cite label="Daw93">...</cite>
+<cite label="Day89">conf/dbpl/Dayal89</cite>
+<cite label="DB82">journals/tods/DayalB82</cite>
+<cite label="DC72">journals/ibmrd/DelobelC73</cite>
+<cite label="DD89">conf/icde/DelcambreD89</cite>
+<cite label="Dec86">...</cite>
+<cite label="Del78">journals/tods/Delobel78</cite>
+<cite label="Dem82">journals/jacm/Demolombe92</cite>
+<cite label="DF92">journals/tods/DateF92</cite>
+<cite label="DG79">...</cite>
+<cite label="DHL91">conf/vldb/DayalHL91</cite>
+<cite label="DiP69">journals/jacm/Paola69a</cite>
+<cite label="DM86a">conf/caap/DahlhausM86</cite>
+<cite label="DM86b">journals/acr/DAtriM86</cite>
+<cite label="DM92">journals/iandc/DahlhausM92</cite>
+<cite label="DMP93">conf/sigmod/DerrMP93</cite>
+<cite label="dMS88">conf/vldb/MaindrevilleS88</cite>
+<cite label="Don92">conf/pods/Dong92</cite>
+<cite label="DP84">conf/adbt/BraP82</cite>
+<cite label="dR87">...</cite>
+<cite label="DS91">conf/dbpl/DongS91</cite>
+<cite label="DS92">journals/iandc/DongS95</cite>
+<cite label="DS93">conf/dbpl/DongS93</cite>
+<cite label="DST93">conf/dbpl/DongS93</cite>
+<cite label="DT92">conf/icdt/DongT92</cite>
+<cite label="DV91">conf/vldb/DenninghoffV91</cite>
+<cite label="DV93">conf/pods/DenninghoffV93</cite>
+<cite label="DW85">...</cite>
+<cite label="DW87">...</cite>
+<cite label="DW94">books/acm/kim95/DayalHW95</cite>
+<cite label="EFT84">...</cite>
+<cite label="EGM94">conf/pods/EiterGM94</cite>
+<cite label="EHJ93">conf/pods/Escobar-MolanoHJ93</cite>
+<cite label="Ehr61">...</cite>
+<cite label="Eme91">books/el/leeuwen90/Emerson90</cite>
+<cite label="EN89">books/bc/ElmasriN89</cite>
+<cite label="End72">...</cite>
+<cite label="Esw76">conf/icse/Eswaran76</cite>
+<cite label="ESW79">conf/sigmod/EpsteinSW78</cite>
+<cite label="Fag72">...</cite>
+<cite label="Fag76">...</cite>
+<cite label="Fag77a">conf/vldb/Fagin77</cite>
+<cite label="Fag77b">journals/tods/Fagin77</cite>
+<cite label="Fag79">conf/sigmod/Fagin79</cite>
+<cite label="Fag81">journals/tods/Fagin81</cite>
+<cite label="Fag82a">journals/ipl/FaginV83</cite>
+<cite label="Fag82b">journals/jacm/Fagin82</cite>
+<cite label="Fag83">journals/jacm/Fagin83</cite>
+<cite label="Fag93">journals/tcs/Fagin93</cite>
+<cite label="FC85">books/sp/kimrb85/FurtadoC85</cite>
+<cite label="FHMV94">...</cite>
+<cite label="Fit85">journals/jlp/Fitting85a</cite>
+<cite label="FJT83">journals/tcs/FischerJT83</cite>
+<cite label="FKUV86">journals/acr/FaginKUV86</cite>
+<cite label="FM92">conf/icdt/FernandezM92</cite>
+<cite label="FMU82">journals/tods/FaginMU82</cite>
+<cite label="FNS91">conf/vldb/FaloutsosNS91</cite>
+<cite label="For81">...</cite>
+<cite label="For82">journals/ai/Forgy82</cite>
+<cite label="Fra54">...</cite>
+<cite label="Fre87">conf/sigmod/Freytag87</cite>
+<cite label="Fri71">...</cite>
+<cite label="FT83">journals/siamcomp/FischerT83</cite>
+<cite label="FUMY83">journals/siamcomp/FaginMUY83</cite>
+<cite label="FUV83">conf/pods/FaginUV83</cite>
+<cite label="FV86">conf/icalp/FaginV84</cite>
+<cite label="Fv89">...</cite>
+<cite label="Gal87">...</cite>
+<cite label="Gar70">...</cite>
+<cite label="Gär88">...</cite>
+<cite label="GD87">conf/sigmod/GraefeD87</cite>
+<cite label="GD94">conf/ride/GatziuD94</cite>
+<cite label="GdM86">conf/sigmod/GardarinM86</cite>
+<cite label="GG88">conf/sigmod/GyssensG88</cite>
+<cite label="GH83">journals/tcs/GinsburgH83a</cite>
+<cite label="GH86">journals/jacm/GinsburgH86</cite>
+<cite label="Gin66">...</cite>
+<cite label="Gin93">books/bc/tanselCGSS93/Ginsburg93</cite>
+<cite label="GJ79">books/fm/GareyJ79</cite>
+<cite label="GJ82">journals/jacm/GrantJ82</cite>
+<cite label="GJ91">conf/vldb/GehaniJ91</cite>
+<cite label="GHJ+93">conf/vldb/GhandeharizadehHJCELLTZ93</cite>
+<cite label="GHJ94">journals/tods/GhandeharizadehHJ96</cite>
+<cite label="GJS92a">conf/vldb/GehaniJS92</cite>
+<cite label="GJS92b">...</cite>
+<cite label="GJS92c">conf/sigmod/GehaniJS92</cite>
+<cite label="GKLT69">...</cite>
+<cite label="GKM92">conf/deductive/GuptaKM92</cite>
+<cite label="GL82">conf/pods/GurevichL82</cite>
+<cite label="GL88">conf/iclp/GelfondL88</cite>
+<cite label="GM78">conf/adbt/77</cite>
+<cite label="GMN84">journals/csur/GallaireMN84</cite>
+<cite label="GMR92">conf/pods/GrahneMR92</cite>
+<cite label="GMS93">conf/sigmod/GuptaMS93</cite>
+<cite label="GMSV87">conf/lics/GaifmanMSV87</cite>
+<cite label="GMSV93">journals/jacm/GaifmanMSV93</cite>
+<cite label="GMV86">journals/jacm/GrahamMV86</cite>
+<cite label="GO93">conf/csl/GradelO92</cite>
+<cite label="Goo70">...</cite>
+<cite label="Got87">conf/pods/Gottlob87</cite>
+<cite label="GPG90">conf/pods/GyssensPG90</cite>
+<cite label="GPSZ91">conf/dood/GiannottiPSZ91</cite>
+<cite label="GR83">books/aw/GoldbergR83</cite>
+<cite label="GR86">journals/acr/GrahneR86</cite>
+<cite label="Gra77">journals/ipl/Grant77</cite>
+<cite label="Gra79">...</cite>
+<cite label="Gra83">journals/iandc/Grandjean83</cite>
+<cite label="Gra84">conf/vldb/Grahne84</cite>
+<cite label="Gra91">...</cite>
+<cite label="Gra93">journals/csur/Graefe93</cite>
+<cite label="Gre75">books/sp/Greibach75</cite>
+<cite label="GS82">journals/tods/GoodmanS82</cite>
+<cite label="GS84">journals/jcss/GoodmanS84</cite>
+<cite label="GS86">conf/focs/GurevichS85</cite>
+<cite label="GS87">...</cite>
+<cite label="GS94">conf/pods/GrumbachS94</cite>
+<cite label="GST90">conf/sigmod/GangulyST90</cite>
+<cite label="GT83">...</cite>
+<cite label="Gun92">journals/tcs/Gunter92</cite>
+<cite label="Gur">...</cite>
+<cite label="Gur66">...</cite>
+<cite label="Gur84">...</cite>
+<cite label="Gur88">...</cite>
+<cite label="GV84">conf/pods/GrahamV84</cite>
+<cite label="GV91">conf/pods/GrumbachV91</cite>
+<cite label="GV92">conf/icde/GardarinV92</cite>
+<cite label="GW89">conf/sigmod/GraefeW89</cite>
+<cite label="GW90">...</cite>
+<cite label="GZ82">journals/jacm/GinsburgZ82</cite>
+<cite label="GZ88">conf/vldb/GottlobZ88</cite>
+<cite label="Hab70">...</cite>
+<cite label="Hal93">...</cite>
+<cite label="Han89">journals/sigmod/Hanson89</cite>
+<cite label="Har78">...</cite>
+<cite label="Har80">journals/cacm/Harel80</cite>
+<cite label="HCL+90">journals/tkde/HaasCLMWLLPCS90</cite>
+<cite label="HEL92">conf/lics/Hella92</cite>
+<cite label="Her92">journals/iandc/Herrmann95</cite>
+<cite label="HH93">conf/pods/HirstH93</cite>
+<cite label="HJ91a">conf/vldb/HullJ91</cite>
+<cite label="HJ91b">conf/ewdw/HullJ90</cite>
+<cite label="HK87">journals/csur/HullK87</cite>
+<cite label="HK89">journals/tods/HudsonK89</cite>
+<cite label="HKM93">conf/lics/HillebrandKM93</cite>
+<cite label="HKR93">conf/nato/HillebrandKR93</cite>
+<cite label="HLM88">conf/jcdkb/HsuLM88</cite>
+<cite label="HLY80">journals/ipl/HoneymanLY80</cite>
+<cite label="HM81">journals/tods/HammerM81</cite>
+<cite label="HMN84">conf/adbt/HenschenMN82</cite>
+<cite label="HMT71">...</cite>
+<cite label="HN84">journals/jacm/HenschenN84</cite>
+<cite label="Hon82">journals/jacm/Honeyman82</cite>
+<cite label="HS89a">conf/sigmod/HullS89</cite>
+<cite label="HS89b">conf/pods/HullS89</cite>
+<cite label="HS91">journals/acta/HullS94</cite>
+<cite label="HS93">journals/jcss/HullS93</cite>
+<cite label="HTY89">conf/fodo/HullTY89</cite>
+<cite label="Hul83">journals/jcss/Hull83</cite>
+<cite label="Hul84">journals/jacm/Hull84</cite>
+<cite label="Hul85">journals/tcs/Hull85</cite>
+<cite label="Hul86">journals/siamcomp/Hull86</cite>
+<cite label="Hul87">...</cite>
+<cite label="Hul89">conf/vldb/Hulin89</cite>
+<cite label="HW92">...</cite>
+<cite label="HY84">journals/jacm/HullY84</cite>
+<cite label="HY90">conf/vldb/HullY90</cite>
+<cite label="HY92">conf/pods/HullY91</cite>
+<cite label="IK90">conf/sigmod/IoannidisK90</cite>
+<cite label="IL84">journals/jcss/ImielinskiL84</cite>
+<cite label="Imi84">conf/adbt/Imielinski82</cite>
+<cite label="Imm82">journals/jcss/Immerman82</cite>
+<cite label="Imm86">journals/iandc/Immerman86</cite>
+<cite label="Imm87a">...</cite>
+<cite label="Imm87b">journals/siamcomp/Immerman87</cite>
+<cite label="IN88">conf/pods/ImielinskiN88</cite>
+<cite label="INSS92">conf/vldb/IoannidisNSS92</cite>
+<cite label="INV91a">conf/sigmod/ImielinskiNV91</cite>
+<cite label="INV91b">conf/dood/ImielinskiNV91</cite>
+<cite label="Ioa85">conf/vldb/Ioannidis85</cite>
+<cite label="Jac82">journals/jacm/Jacobs82</cite>
+<cite label="JH91">conf/dbpl/JacobsH91</cite>
+<cite label="JK84a">journals/csur/JarkeK84</cite>
+<cite label="JK84b">journals/jcss/JohnsonK84</cite>
+<cite label="JL87">conf/popl/JaffarL87</cite>
+<cite label="Joh91">books/el/leeuwen90/Johnson90</cite>
+<cite label="Joy76">journals/jacm/Joyner76</cite>
+<cite label="JS82">conf/pods/JaeschkeS82</cite>
+<cite label="Kam81">...</cite>
+<cite label="Kan88">books/mk/minker88/Kanellakis88</cite>
+<cite label="Kan91">books/el/leeuwen90/Kanellakis90</cite>
+<cite label="KC86">conf/oopsla/KhoshafianC86</cite>
+<cite label="KDM88">conf/edbt/KotzDM88</cite>
+<cite label="Kel82">conf/jcdkb/Keller82</cite>
+<cite label="Kel85">conf/pods/Keller85</cite>
+<cite label="Kel86">journals/computer/Keller86</cite>
+<cite label="Ken78">...</cite>
+<cite label="Ken79">journals/tods/Kent79</cite>
+<cite label="Ken89">...</cite>
+<cite label="Ker88">journals/ngc/RohmerLK86</cite>
+<cite label="KG94">conf/tacs/KanellakisG94</cite>
+<cite label="Kif88">conf/jcdkb/Kifer88</cite>
+<cite label="KKR90">conf/pods/KanellakisKR90</cite>
+<cite label="KKS92">conf/sigmod/KiferKS92</cite>
+<cite label="KL86a">...</cite>
+<cite label="KL86b">conf/icdt/KiferL86</cite>
+<cite label="KL89">books/aw/KimL89</cite>
+<cite label="Kle67">...</cite>
+<cite label="Klu80">journals/tods/Klug80</cite>
+<cite label="Klu82">journals/jacm/Klug82</cite>
+<cite label="Klu88">journals/jacm/Klug88</cite>
+<cite label="KLW93">journals/jacm/KiferLW95</cite>
+<cite label="KM91a">conf/kr/KatsunoM91</cite>
+<cite label="KM91b">journals/ai/KatsunoM92</cite>
+<cite label="KN88">conf/jcdkb/KrishnamurthyN88</cite>
+<cite label="Kni89">journals/csur/Knight89</cite>
+<cite label="Kol83">...</cite>
+<cite label="Kol91">journals/iandc/Kolaitis91</cite>
+<cite label="Kon88">journals/ai/Konolige88</cite>
+<cite label="Kow74">conf/ifip/Kowalski74</cite>
+<cite label="Kow75">journals/jacm/Kowalski75</cite>
+<cite label="Kow81">conf/bncod/Kowalski84</cite>
+<cite label="KP81">conf/vldb/KoenigP81</cite>
+<cite label="KP82">journals/tods/KlugP82</cite>
+<cite label="KP86">...</cite>
+<cite label="KP88">conf/pods/KolaitisP88</cite>
+<cite label="KRS88a">conf/pods/KiferRS88</cite>
+<cite label="KRS88b">conf/sigmod/KrishnamurthyRS88</cite>
+<cite label="KS91">books/mg/SilberschatzK91</cite>
+<cite label="KT88">conf/iclp/KempT88</cite>
+<cite label="KU84">conf/sigmod/KellerU84</cite>
+<cite label="Küc91">conf/dood/Kuchenhoff91</cite>
+<cite label="Kuh67">...</cite>
+<cite label="Kun87">journals/jlp/Kunen87</cite>
+<cite label="Kun88">conf/iclp/Kunen88</cite>
+<cite label="Kup87">conf/pods/Kuper87</cite>
+<cite label="Kup88">conf/pods/Kuper88</cite>
+<cite label="Kup93">conf/ppcp/Kuper93</cite>
+<cite label="KV84">conf/pods/KuperV84</cite>
+<cite label="KV87">conf/stoc/KolaitisV87</cite>
+<cite label="KV90a">journals/tcs/KarabegV90</cite>
+<cite label="KV90b">journals/iandc/KolaitisV90</cite>
+<cite label="KV90c">conf/pods/KolaitisV90</cite>
+<cite label="KV91">journals/tods/KarabegV91</cite>
+<cite label="KV92">journals/iandc/KolaitisV92</cite>
+<cite label="KV93a">journals/tcs/KuperV93</cite>
+<cite label="KV93b">journals/tods/KuperV93</cite>
+<cite label="KW85">journals/tse/KellerW85</cite>
+<cite label="KW89">conf/pods/KiferW89</cite>
+<cite label="Lan88">conf/jcdkb/Lang88</cite>
+<cite label="Lee91">books/el/Leeuwen90</cite>
+<cite label="Lei69">...</cite>
+<cite label="Lei89a">journals/jcss/Leivant89</cite>
+<cite label="Lei89b">...</cite>
+<cite label="Lei90">journals/iandc/Leivant90</cite>
+<cite label="Lel87">...</cite>
+<cite label="Lev84a">conf/db-workshops/Levesque82</cite>
+<cite label="Lev84b">journals/ai/Levesque84</cite>
+<cite label="Lib91">conf/mfdbs/Libkin91</cite>
+<cite label="Lie80">conf/er/Lien79</cite>
+<cite label="Lie82">journals/jacm/Lien82</cite>
+<cite label="Lif88">books/mk/minker88/Lifschitz88</cite>
+<cite label="Lin90">...</cite>
+<cite label="Lin91">journals/tcs/Lindell91</cite>
+<cite label="Lip79">journals/tods/Lipski79</cite>
+<cite label="Lip81">journals/jacm/Lipski81</cite>
+<cite label="LL86">journals/tcs/LeratL86</cite>
+<cite label="LL90">journals/cj/LeveneL90</cite>
+<cite label="Llo87">books/sp/Lloyd87</cite>
+<cite label="LM89">conf/pods/LakshmananM89</cite>
+<cite label="LM93">conf/tlca/LeivantM93</cite>
+<cite label="LMG83">conf/sigmod/LaverMG83</cite>
+<cite label="LN90">conf/pods/LiptonN90</cite>
+<cite label="LO78">journals/jcss/LucchesiO78</cite>
+<cite label="Loh88">conf/sigmod/Lohman88</cite>
+<cite label="Low15">...</cite>
+<cite label="Loz85">conf/ijcai/Lozinskii85</cite>
+<cite label="Lp81">books/ph/LewisP81</cite>
+<cite label="LMR92">...</cite>
+<cite label="LRV88">conf/sigmod/LecluseRV88</cite>
+<cite label="LS87">journals/is/LipeckS87</cite>
+<cite label="LST87">journals/jlp/LloydST87</cite>
+<cite label="LTK81">journals/tods/LingTK81</cite>
+<cite label="LV87">conf/sigmod/LyngbaekV87</cite>
+<cite label="LV89">conf/dood/LefebvreV89</cite>
+<cite label="LW93a">conf/pods/LibkinW93</cite>
+<cite label="LW93b">conf/dbpl/LibkinW93</cite>
+<cite label="Mai80">journals/jacm/Maier80</cite>
+<cite label="Mai83">books/cs/Maier83</cite>
+<cite label="Mai86">...</cite>
+<cite label="Mak77">conf/vldb/Makinouchi77</cite>
+<cite label="Mak81">conf/icalp/Makowsky81</cite>
+<cite label="Mak85">...</cite>
+<cite label="Mal86">conf/icdt/Malvestuto86</cite>
+<cite label="MB92">conf/aaai/MacGregorB92</cite>
+<cite label="MBW80">journals/tods/MylopoulosBW80</cite>
+<cite label="MD89">conf/sigmod/McCarthyD89</cite>
+<cite label="ME92">journals/csur/MishraE92</cite>
+<cite label="MFPR90">conf/sigmod/MumickFPR90</cite>
+<cite label="Min88a">books/mk/Minker88</cite>
+<cite label="Min88b">journals/jlp/Minker88</cite>
+<cite label="MIR93">conf/vldb/MillerIR93</cite>
+<cite label="MIR94">journals/is/MillerIR94</cite>
+<cite label="Mit83a">journals/iandc/Mitchell83</cite>
+<cite label="Mit83b">conf/pods/Mitchell83</cite>
+<cite label="MM79">conf/vldb/MendelzonM79</cite>
+<cite label="MMS79">journals/tods/MaierMS79</cite>
+<cite label="MMSU80">journals/jcss/MaierMSU80</cite>
+<cite label="MMW94">conf/pods/MendelzonMW94</cite>
+<cite label="MNS+78">journals/debu/MorrisNSUG87</cite>
+<cite label="Moo85">journals/ai/Moore85</cite>
+<cite label="Mor83">conf/vldb/Morgenstern83</cite>
+<cite label="Mor88">conf/pods/Morris88</cite>
+<cite label="Mos74">...</cite>
+<cite label="MR85">conf/pods/MannilaR85</cite>
+<cite label="MR88">...</cite>
+<cite label="MR90">journals/jlp/MinkerR90</cite>
+<cite label="MR92">books/aw/MannilaR92</cite>
+<cite label="MRW86">journals/acr/MaierRW86</cite>
+<cite label="MS81">...</cite>
+<cite label="MS92">journals/tods/MarkowitzS92</cite>
+<cite label="MSPS87">conf/pods/Marchetti-SpaccamelaPS87</cite>
+<cite label="MSY81">journals/jacm/MaierSY81</cite>
+<cite label="MUG86">conf/iclp/MorrisUG86</cite>
+<cite label="MUV84">journals/tods/MaierUV84</cite>
+<cite label="MUV86">conf/iclp/MorrisUG86</cite>
+<cite label="MV86">journals/acta/MakowskyV86</cite>
+<cite label="MW88a">books/bc/MaierW88</cite>
+<cite label="MW88b">books/mk/minker88/ManchandraW88</cite>
+<cite label="Nau86">conf/pods/Naughton86</cite>
+<cite label="NCS91">conf/sigmod/NgFS91</cite>
+<cite label="ND82">...</cite>
+<cite label="Nej87">conf/vldb/Nejdl87</cite>
+<cite label="NG78">conf/adbt/NicolasM77</cite>
+<cite label="Nic78">conf/sigmod/Nicolas78</cite>
+<cite label="Nic82">journals/acta/Nicolas82</cite>
+<cite label="Nij76">conf/ds/76</cite>
+<cite label="NK88">conf/pods/NaqviK88</cite>
+<cite label="NPS91">journals/tods/NegriPS91</cite>
+<cite label="NRSU89">conf/vldb/NaughtonRSU89</cite>
+<cite label="NS87">conf/pods/NaughtonS87</cite>
+<cite label="NT89">...</cite>
+<cite label="Ora89">...</cite>
+<cite label="Osb79">conf/vldb/Osborn79</cite>
+<cite label="OW93">...</cite>
+<cite label="OY87">journals/tods/OzsoyogluY87</cite>
+<cite label="Pai84">conf/adbt/Paige82</cite>
+<cite label="Pap85">...</cite>
+<cite label="Pap86">books/cs/Papadimitriou86</cite>
+<cite label="Pap94">...</cite>
+<cite label="Par78">journals/ipl/Paredaens78</cite>
+<cite label="Par79">...</cite>
+<cite label="PBGG89">books/sp/ParedaensBGG89</cite>
+<cite label="Pea88">journals/ai/Andersen91</cite>
+<cite label="Per91">books/el/leeuwen90/Perrin90</cite>
+<cite label="Pet89">journals/ins/Petrov89</cite>
+<cite label="PG88">conf/pods/ParedaensG88</cite>
+<cite label="PI94">conf/pods/PatnaikI94</cite>
+<cite label="PJ81">conf/adbt/ParedaensJ79</cite>
+<cite label="PM88">journals/csur/PeckhamM88</cite>
+<cite label="Por86">...</cite>
+<cite label="Pos47">...</cite>
+<cite label="PPG80">conf/sigmod/ParkerP80</cite>
+<cite label="Prz86">...</cite>
+<cite label="Prz88">conf/iclp/Przymusinski88</cite>
+<cite label="prz89">conf/pods/Przymusinski89</cite>
+<cite label="Prz90">...</cite>
+<cite label="PSV92">conf/vldb/ParkerSV92</cite>
+<cite label="PV88">conf/aaai/PearlV87</cite>
+<cite label="PW80">journals/ai/PereiraW80a</cite>
+<cite label="PY92">conf/pods/PapadimitriouY92</cite>
+<cite label="QW91">journals/tkde/QianW91</cite>
+<cite label="Rad64">...</cite>
+<cite label="Ram91">journals/jlp/Ramakrishnan91</cite>
+<cite label="RBS87">conf/pods/RamakrishnanBS87</cite>
+<cite label="RD75">...</cite>
+<cite label="Rei78">conf/adbt/Reiter77</cite>
+<cite label="Rei80">journals/ai/Reiter80</cite>
+<cite label="Rei84">conf/db-workshops/Reiter82</cite>
+<cite label="Rei86">journals/jacm/Reiter86</cite>
+<cite label="Ris77">journals/tods/Rissanen77</cite>
+<cite label="Ris78">conf/mfcs/Rissanen78</cite>
+<cite label="Ris82">conf/pods/Rissanen82</cite>
+<cite label="RKS86">...</cite>
+<cite label="RLK86">journals/ngc/RohmerLK86</cite>
+<cite label="Rob65">journals/jacm/Robinson65</cite>
+<cite label="Roe87">...</cite>
+<cite label="Ros89">conf/pods/Ross89</cite>
+<cite label="Ros91">...</cite>
+<cite label="Rou91">...</cite>
+<cite label="RS79">conf/sigmod/RoweS79</cite>
+<cite label="RS91">conf/sigmod/RichardsonS91</cite>
+<cite label="RSB+87">journals/debu/RamamohanaraoSBPNTZD87</cite>
+<cite label="RSS92">conf/vldb/RamakrishnanSS92</cite>
+<cite label="RSSS93">conf/sigmod/RamakrishnanSSS93</cite>
+<cite label="RSUV89">conf/pods/RamakrishnanSUV89</cite>
+<cite label="RSUV93">journals/jcss/RamakrishnanSUV93</cite>
+<cite label="RU94">journals/jlp/RamakrishnanU95</cite>
+<cite label="SAC+79">conf/sigmod/SelingerACLP79</cite>
+<cite label="Sag81">conf/sigmod/Sagiv81</cite>
+<cite label="Sag83">journals/tods/Sagiv83</cite>
+<cite label="Sag88">books/mk/minker88/Sagiv88</cite>
+<cite label="Sag90">conf/slp/Sagiv90</cite>
+<cite label="Sci81">conf/sigmod/Sciore81</cite>
+<cite label="Sci82">journals/jacm/Sciore82</cite>
+<cite label="Sci83">conf/pods/Sciore83</cite>
+<cite label="Sci86">journals/acr/Sciore86</cite>
+<cite label="SDPF81">journals/jacm/SagivDPF81</cite>
+<cite label="Sek89">conf/pods/X89</cite>
+<cite label="SF78">...</cite>
+<cite label="SG85">journals/ai/SmithG85</cite>
+<cite label="She88">books/mk/minker88/Shepherdson88</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="Shm87">conf/pods/Shmueli87</cite>
+<cite label="SI88">conf/iclp/SekiI88</cite>
+<cite label="SI84">conf/sigmod/ShmueliI84</cite>
+<cite label="Sic76">journals/tc/Sickel76</cite>
+<cite label="Sie88">journals/jsc/Siekmann89</cite>
+<cite label="SJGP90">conf/sigmod/StonebrakerJGP90</cite>
+<cite label="SKdM92">conf/vldb/SimonKM92</cite>
+<cite label="SL90">journals/csur/ShethL90</cite>
+<cite label="SL91">conf/pods/SeibL91</cite>
+<cite label="SLRD93">conf/sigmod/SuLRD93</cite>
+<cite label="SM81">conf/adbt/SilvaM79</cite>
+<cite label="Sno90">journals/sigmod/Snodgrass90</cite>
+<cite label="Soo91">journals/sigmod/Soo91</cite>
+<cite label="SP94">conf/pods/SuciuP94</cite>
+<cite label="SR86">conf/sigmod/StonebrakerR86</cite>
+<cite label="SR93">conf/slp/SudarshanR93</cite>
+<cite label="SS86">conf/pods/SagivS86</cite>
+<cite label="Sto81">journals/cacm/Stonebraker81</cite>
+<cite label="Sto88">books/mk/Stonebraker88</cite>
+<cite label="Sto92">journals/tkde/Stonebraker92</cite>
+<cite label="Str91">books/aw/Stroustrup91</cite>
+<cite label="SU82">journals/jacm/SadriU82</cite>
+<cite label="Su92">conf/vldb/Su91</cite>
+<cite label="SV89">conf/pods/SagivV89</cite>
+<cite label="SW82">journals/jacm/SagivW82</cite>
+<cite label="SWKH76">journals/tods/StonebrakerWKH76</cite>
+<cite label="SY80">journals/jacm/SagivY80</cite>
+<cite label="SZ86">conf/pods/SaccaZ86</cite>
+<cite label="SZ88">journals/tcs/SaccaZ88</cite>
+<cite label="SZ89">...</cite>
+<cite label="SZ90">conf/pods/SaccaZ90</cite>
+<cite label="Tan88">...</cite>
+<cite label="Tar55">...</cite>
+<cite label="TCG+93">books/bc/TanselCGJSS93</cite>
+<cite label="TF82">...</cite>
+<cite label="TF86">journals/acr/ThomasF86</cite>
+<cite label="Tha91">...</cite>
+<cite label="TK84">...</cite>
+<cite label="TL82">...</cite>
+<cite label="Tod77">...</cite>
+<cite label="Top87">journals/tcs/Topor87</cite>
+<cite label="Top91">...</cite>
+<cite label="TS88">books/mk/minker88/ToporS88</cite>
+<cite label="TT52">...</cite>
+<cite label="TY84">journals/siamcomp/TarjanY84</cite>
+<cite label="TYF86">journals/csur/TeoreyYF86</cite>
+<cite label="UG88">journals/algorithmica/UllmanG88</cite>
+<cite label="Ull82a">conf/pods/Ullman82</cite>
+<cite label="Ull82b">books/cs/Ullman82</cite>
+<cite label="Ull85">journals/tods/Ullman85</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Ull89a">conf/pods/Ullman89</cite>
+<cite label="Ull89b">books/cs/Ullman89</cite>
+<cite label="Van86">conf/sigmod/Gelder86</cite>
+<cite label="VandB93">...</cite>
+<cite label="VandBG92">conf/pods/BusscheG92</cite>
+<cite label="VandBGAG92">conf/focs/BusscheGAG92</cite>
+<cite label="VandBP91">conf/pods/BusscheP91</cite>
+<cite label="VanG86">conf/slp/Gelder86</cite>
+<cite label="VanG89">conf/pods/Gelder89</cite>
+<cite label="VanGRS88">conf/pods/GelderRS88</cite>
+<cite label="VanGRS91">journals/jacm/GelderRS91</cite>
+<cite label="VanGT91">journals/tods/GelderT91</cite>
+<cite label="Var81">journals/ipl/Vardi81</cite>
+<cite label="Var82a">conf/stoc/Vardi82</cite>
+<cite label="Var82b">conf/focs/Vardi82</cite>
+<cite label="Var83">journals/acta/Vardi83</cite>
+<cite label="Var84">journals/jcss/Vardi84</cite>
+<cite label="Var85">conf/pods/Vardi85</cite>
+<cite label="Var86a">conf/pods/Vardi86</cite>
+<cite label="Var86b">journals/jcss/Vardi86</cite>
+<cite label="Var87">...</cite>
+<cite label="Var88">conf/pods/Vardi88</cite>
+<cite label="Vas79">conf/sigmod/Vassiliou79</cite>
+<cite label="Vas80">...</cite>
+<cite label="VBKL89">...</cite>
+<cite label="vEK76">journals/jacm/EmdenK76</cite>
+<cite label="Ver89">conf/nf2/SchollABBGPRV87</cite>
+<cite label="Via87">journals/jacm/Vianu87</cite>
+<cite label="Via88">journals/acta/Vianu87</cite>
+<cite label="Vie86">conf/eds/Vieille86</cite>
+<cite label="Vie87a">conf/iclp/Vieille87</cite>
+<cite label="Vie87b">...</cite>
+<cite label="Vie88">conf/eds/Vieille88</cite>
+<cite label="Vie89">journals/tcs/Vieille89</cite>
+<cite label="Vos91">...</cite>
+<cite label="VV92">journals/tcs/VianuV92</cite>
+<cite label="WF90">conf/sigmod/WidomF90</cite>
+<cite label="WH92">conf/icde/WangH92</cite>
+<cite label="WHW90">conf/pos/WidjojoHW90</cite>
+<cite label="Wie92">journals/computer/Wiederhold92</cite>
+<cite label="Win86">conf/pods/Wilkins86</cite>
+<cite label="Win88">conf/pods/Winslett88</cite>
+<cite label="WO90">conf/sigmod/WolfsonO90</cite>
+<cite label="Won93">conf/pods/Wong93</cite>
+<cite label="WS88">conf/sigmod/WolfsonS88</cite>
+<cite label="WW75">journals/ibmrd/WangW75</cite>
+<cite label="WY76">journals/tods/WongY76</cite>
+<cite label="Yan81">conf/vldb/Yannakakis81</cite>
+<cite label="YC84">journals/csur/YuC84</cite>
+<cite label="YO79">...</cite>
+<cite label="YP82">journals/jcss/YannakakisP82</cite>
+<cite label="Zan76">...</cite>
+<cite label="Zan82">journals/tods/Zaniolo82</cite>
+<cite label="Zan84">journals/jcss/Zaniolo84</cite>
+<cite label="Zan87">...</cite>
+<cite label="ZH90">conf/edbt/ZhouH90</cite>
+<cite label="Zlo77">journals/ibmsj/Zloof77</cite>
+<cite label="ZM90">books/mk/ZdonikM90</cite>
+<url>db/books/dbtext/abiteboul95.html</url>
+</book>
+
+<www key="homepages/g/JimGray" mdate="2012-12-13">
+<author>Jim Gray</author>
+<title>Home Page</title>
+<url>http://www.research.microsoft.com/~gray/</url>
+<url>
+http://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)
+</url>
+<url>http://dl.acm.org/author_page.cfm?id=81100403088</url>
+<note>Microsoft Research</note>
+<cite>journals/cacm/HellersteinT11</cite>
+<cite>books/ms/4paradigm2009/HeyTT09</cite>
+<cite>journals/sigmod/Labrinidis08</cite>
+<cite>journals/sigmod/Winslett08a</cite>
+<cite>journals/sigmod/Winslett08b</cite>
+<cite>journals/sigmod/Carnes08</cite>
+<cite>journals/sigmod/Boss08</cite>
+<cite>journals/sigmod/Olson08</cite>
+<cite>journals/sigmod/Hawthorn08</cite>
+<cite>journals/sigmod/Harrison08</cite>
+<cite>journals/sigmod/Helland08</cite>
+<cite>journals/sigmod/Lazowska08</cite>
+<cite>journals/sigmod/Stonebraker08</cite>
+<cite>journals/sigmod/Vaskevitch08</cite>
+<cite>journals/sigmod/Rashid08</cite>
+<cite>journals/sigmod/Lindsay08</cite>
+<cite>journals/sigmod/NaumanB08</cite>
+<cite>journals/sigmod/DeWittL08</cite>
+<cite>journals/sigmod/Bell08</cite>
+<cite>journals/sigmod/Reuter08</cite>
+<cite>journals/sigmod/Barclay08</cite>
+<cite>journals/sigmod/Szalay08</cite>
+<cite>journals/sigmod/Wong08</cite>
+<cite>journals/sigmod/Saade08</cite>
+<cite>journals/sigmod/BellinghamG08</cite>
+<cite>journals/jucs/Lomet07</cite>
+<cite>journals/dsonline/Milojicic04</cite>
+<cite>journals/queue/X03c</cite>
+<cite>journals/sigmod/Winslett03</cite>
+<cite>journals/ieeecc/Jajodia99</cite>
+</www>
+
+<incollection key="books/wi/Smith11/X11a" mdate="2012-03-22">
+<title>
+The Future for Genetic and Evolutionary Computation in Medicine: Opportunities, Challenges and Rewards.
+</title>
+<year>2011</year>
+<booktitle>
+Genetic and Evolutionary Computation: Medical Applications
+</booktitle>
+<crossref>books/wi/Smith2011</crossref>
+<url>db/books/collections/Smith2011.html#X11a</url>
+</incollection>
+
+<book key="books/daglib/0092194" mdate="2011-02-04">
+<title>
+Datenverarbeitungssystem ZUSE Z25 - Beschreibung und Einführung in die Arbeitsweise.
+</title>
+<publisher>Zuse K.G.</publisher>
+<year>1969</year>
+</book>
+
+<inproceedings key="conf/wsc/Foster04" mdate="2005-09-15">
+<author>J. Bennett Foster</author>
+<title>
+Using Simulation to Select and Evaluate Potential Six Sigma Projects.
+</title>
+<year>2004</year>
+<booktitle>Winter Simulation Conference</booktitle>
+<url>db/conf/wsc/wsc2004.html#Foster04</url>
+</inproceedings>
+
+<incollection key="books/crc/CRCcompiler2002/Gopinath02" mdate="2004-01-12">
+<author>K. Gopinath</author>
+<title>Register Allocation.</title>
+<pages>461-534</pages>
+<year>2002</year>
+<booktitle>The Compiler Design Handbook</booktitle>
+<url>
+db/books/collections/CRCcompiler2002.html#Gopinath02
+</url>
+<cite>books/cu/Appel1998c</cite>
+<cite>conf/pldi/AppelG01</cite>
+<cite>books/aw/AhoHU74</cite>
+<cite>...</cite>
+<cite>conf/focs/AroraLMSS92</cite>
+<cite>journals/spe/AppelS87</cite>
+<cite>conf/focs/AroraS92</cite>
+<cite>...</cite>
+<cite>conf/micro/BernsteinCLR92</cite>
+<cite>conf/pldi/BriggsCT92</cite>
+<cite>journals/toplas/BriggsCT94</cite>
+<cite>conf/pldi/BergnerDEO97</cite>
+<cite>conf/lcpc/BersonGS98</cite>
+<cite>conf/focs/BellareGS95</cite>
+<cite>journals/ibmsj/Belay66</cite>
+<cite>...</cite>
+<cite>journals/cl/ChaitinACCHM81</cite>
+<cite>journals/toplas/ChowH90</cite>
+<cite>...</cite>
+<cite>conf/pldi/Chow88</cite>
+<cite>journals/spe/CooperHT98</cite>
+<cite>conf/pldi/CallahanK91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pldi/CooperL97</cite>
+<cite>conf/isca/ChangMCWH91</cite>
+<cite>conf/micro/ChekuriJMNRS96</cite>
+<cite>conf/asplos/ColwellNOPR87</cite>
+<cite>conf/pldi/CooperL97</cite>
+<cite>conf/pldi/CallahanCK90</cite>
+<cite>journals/cacm/Freiburghouse74</cite>
+<cite>...</cite>
+<cite>conf/focs/FeigeGLSS91</cite>
+<cite>books/aw/Hanson1995</cite>
+<cite>conf/soda/FarachL98</cite>
+<cite>conf/dagstuhl/FreudenbergerR91</cite>
+<cite>...</cite>
+<cite>conf/popl/GeorgeA96</cite>
+<cite>...</cite>
+<cite>conf/ics/GoodmanH88</cite>
+<cite>conf/popl/GopinathH89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/fm/GareyJ79</cite>
+<cite>conf/sigplan/Chaitin82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/spe/GoodwinW96</cite>
+<cite>...</cite>
+<cite>journals/tse/HsuFG89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/mk/HennessyP96</cite>
+<cite>journals/ibmsj/AlpernABBCCCFGHHLLMNRSSSSSSW00</cite>
+<cite>conf/popl/AllenKPW83</cite>
+<cite>conf/sigplan/Fabri79</cite>
+<cite>journals/tc/Fisher81</cite>
+<cite>conf/micro/JohnsonS96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/focs/KleinARR90</cite>
+<cite>...</cite>
+<cite>conf/popl/KurlanderF96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/lcpc/LuehGA96</cite>
+<cite>journals/cacm/LowryM69</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/stoc/LundY93</cite>
+<cite>...</cite>
+<cite>conf/micro/MahlkeLCHB92</cite>
+<cite>...</cite>
+<cite>books/mk/Muchnick1997</cite>
+<cite>journals/toplas/PolettoS99</cite>
+<cite>conf/lcpc/NovackN94</cite>
+<cite>conf/sc/NorrisP93</cite>
+<cite>conf/pldi/NorrisP94</cite>
+<cite>...</cite>
+<cite>conf/pldi/ProebstingF91</cite>
+<cite>conf/pldi/ProebstingF92</cite>
+<cite>...</cite>
+<cite>journals/toplas/PalemS93</cite>
+<cite>conf/micro/Rau94</cite>
+<cite>conf/pldi/RauLTS92</cite>
+<cite>journals/toplas/GuptaSO94</cite>
+<cite>journals/toplas/SteenkisteH89</cite>
+<cite>conf/pldi/SanthanamO90</cite>
+<cite>conf/pldi/TraubHS98</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigplan/Wall86</cite>
+<cite>conf/IEEEpact/WayBP00</cite>
+<cite>journals/jacm/Wigderson83</cite>
+<cite>...</cite>
+<cite>journals/toplas/WegmanZ91</cite>
+</incollection>
+
+<article key="journals/csur/Graefe93" mdate="2010-07-16">
+<author>Goetz Graefe</author>
+<title>Query Evaluation Techniques for Large Databases.</title>
+<pages>73-170</pages>
+<year>1993</year>
+<volume>25</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>2</number>
+<url>db/journals/csur/csur25.html#Graefe93</url>
+<ee>http://doi.acm.org/10.1145/152610.152611</ee>
+<cdrom>CSURs1/csur25/P073.pdf</cdrom>
+<cite label="Adam and Wortmann 1989">journals/csur/AdamW89</cite>
+<cite label="Ahn and Snodgrass 1988">journals/is/AhnS88</cite>
+<cite label="Albert 1991">conf/vldb/Albert91</cite>
+<cite label="Analyti and Pramanik 1992">conf/sigmod/AnalytiP92</cite>
+<cite label="Anderson et al. 1988">...</cite>
+<cite label="Antoshenkov 1993">conf/icde/Antoshenkov93</cite>
+<cite label="Astrahan et al. 1976">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="Astrahan et al. 1987">journals/is/AstrahanSW87</cite>
+<cite label="Atkinson and Bunemann 1987">journals/csur/AtkinsonB87</cite>
+<cite label="Babb 1982">journals/tods/Babb82</cite>
+<cite label="Babb 1979">journals/tods/Babb79</cite>
+<cite label="Baeza-Yates and Larson 1989">journals/tkde/Baeza-YatesL89</cite>
+<cite label="Bancilhon and Ramakrishnan 1986">conf/sigmod/BancilhonR86</cite>
+<cite label="Barghouti and Kaiser 1991">journals/csur/BarghoutiK91</cite>
+<cite label="Baru and Frieder 1989">journals/tc/BaruF89</cite>
+<cite label="Batini et al. 1986">journals/csur/BatiniL86</cite>
+<cite label="Batory et al. 1988a">journals/tse/BatoryBGSTTW88</cite>
+<cite label="Batory et al. 1988b">journals/tods/BatoryLW88</cite>
+<cite label="Baugsto and Greipsland 1989">conf/iwdm/BaugstoG89</cite>
+<cite label="Bayer and McCreighton 1972">journals/acta/BayerM72</cite>
+<cite label="Beck et al. 1988">journals/tc/BeckBW88</cite>
+<cite label="Becker et al. 1991">conf/sigmod/BeckerSW91</cite>
+<cite label="Beckmann et al. 1990">conf/sigmod/BeckmannKSS90</cite>
+<cite label="Bell et al. 1989">journals/csur/BellWC89</cite>
+<cite label="Bentley 1975">journals/cacm/Bentley75</cite>
+<cite label="Bernstein and Goodman 1981">journals/csur/BernsteinG81</cite>
+<cite label="Bernstein et al. 1981">journals/tods/BernsteinGWRR81</cite>
+<cite label="Bernstein et al. 1987">books/aw/BernsteinHG87</cite>
+<cite label="Berra et al. 1987">journals/computer/BerraCH87</cite>
+<cite label="Bertino 1991">conf/icde/Bertino91</cite>
+<cite label="Bertino 1990">conf/edbt/Bertino90</cite>
+<cite label="Bertino and Kim 1989">journals/tkde/BertinoK89</cite>
+<cite label="Bhide 1988">conf/vldb/Bhide88</cite>
+<cite label="Bhide and Stonebraker 1988">conf/icde/BhideS88</cite>
+<cite label="Bitton and DeWitt 1983">journals/tods/BittonD83</cite>
+<cite label="Bitton-Friedland 1982">...</cite>
+<cite label="Bitton and Gray 1988">conf/vldb/BittonG88</cite>
+<cite label="Bitton et al. 1984">journals/csur/BittonDHM84</cite>
+<cite label="Bitton et al. 1987">conf/icde/BittonHT87</cite>
+<cite label="Blakeley and Martin 1990">conf/icde/BlakeleyM90</cite>
+<cite label="Blakeley et al. 1989">journals/tods/BlakeleyCL89</cite>
+<cite label="Blasgen and Eswaran 1977">journals/ibmsj/BlasgenE77</cite>
+<cite label="Blasgen and Eswaran 1976">...</cite>
+<cite label="Bloom 1970">journals/cacm/Bloom70</cite>
+<cite label="Boral 1988">conf/dpds/Boral88</cite>
+<cite label="Boral and DeWitt 1983">conf/iwdm/BoralD83</cite>
+<cite label="Boral et al. 1990">journals/tkde/BoralACCDFHSV90</cite>
+<cite label="Bratbergsengen 1984">conf/vldb/Bratbergsengen84</cite>
+<cite label="Brown et al. 1992">...</cite>
+<cite label="Bucheral et al. 1990">conf/vldb/PucheralTV90</cite>
+<cite label="Buneman and Frankel 1979">conf/sigmod/BunemanF79</cite>
+<cite label="Buneman et al. 1982">journals/tods/BunemanFN82</cite>
+<cite label="Cacace et al. 1992">journals/dpd/CacaceCH93</cite>
+<cite label="Carey et al. 1986">conf/vldb/CareyDRS86</cite>
+<cite label="Carlis 1986">conf/icde/Carlis86</cite>
+<cite label="Carter and Wegman 1979">journals/jcss/CarterW79</cite>
+<cite label="Chamberlin et al. 1981a">journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite label="Chamberlin et al. 1981b">journals/tods/ChamberlinAKLMPSSSWY81</cite>
+<cite label="Chen 1976">journals/tods/Chen76</cite>
+<cite label="Chen and Kuck 1984">conf/sigmod/ChenK84</cite>
+<cite label="Chen et al. 1992">conf/vldb/ChenLYY92</cite>
+<cite label="Cheng et al. 1991">conf/icde/ChengHHIMMW91</cite>
+<cite label="Cheriton et al. 1991">journals/computer/CheritonGB91</cite>
+<cite label="Chiu and Ho 1980">conf/sigmod/ChiuH80</cite>
+<cite label="Chou 1985">...</cite>
+<cite label="Chou and DeWitt 1985">conf/vldb/ChouD85</cite>
+<cite label="Christodoulakis 1984">journals/tods/Christodoulakis84</cite>
+<cite label="Chung and Berra 1988">conf/edbt/ChungB88</cite>
+<cite label="Cluet et al. 1989">conf/dood/CluetDLR89</cite>
+<cite label="Comer 1979">journals/csur/Comer79</cite>
+<cite label="Copeland et al. 1988">conf/sigmod/CopelandABK88</cite>
+<cite label="Dadam et al. 1986">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="Daniels and Ng 1982">journals/debu/DanielsN82</cite>
+<cite label="Daniels et al. 1991">journals/debu/DanielsGKMSV91</cite>
+<cite label="Davidson et al. 1985">journals/csur/DavidsonG85</cite>
+<cite label="Davis 1992">...</cite>
+<cite label="Davison 1992">conf/sigmod/Davidson92</cite>
+<cite label="Deppisch and Schek 1986">conf/oodbs/DeppischPS86</cite>
+<cite label="Deshpande and Larson 1991">conf/icde/DeshpandeL92</cite>
+<cite label="Deshpande and Larson 1991">...</cite>
+<cite label="Deshpande and van Gucht 1988">conf/vldb/DeshpandeG88</cite>
+<cite label="DeWitt 1991">books/mk/gray91/DeWitt91</cite>
+<cite label="DeWitt and Gerber 1985">conf/vldb/DeWittG85</cite>
+<cite label="DeWitt and Gray 1992">journals/cacm/DeWittG92</cite>
+<cite label="DeWitt and Hawthorn 1981">conf/vldb/DeWittH81</cite>
+<cite label="DeWitt et al. 1986">conf/vldb/DeWittGGHKM86</cite>
+<cite label="DeWitt et al. 1988">conf/sigmod/DeWittGS88</cite>
+<cite label="DeWitt et al. 1990">journals/tkde/DeWittGSBHR90</cite>
+<cite label="DeWitt et al. 1984">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeWitt et al. 1993">conf/pdis/DeWittNB93</cite>
+<cite label="DeWitt et al. 1991a">conf/vldb/DeWittNS91</cite>
+<cite label="DeWitt et al. 1991b">conf/pdis/DeWittNS91</cite>
+<cite label="Dozier 1992">conf/sigmod/Dozier92</cite>
+<cite label="Effelsberg and Haerder 1984">journals/tods/EffelsbergH84</cite>
+<cite label="Enbody and Du 1988">journals/csur/EnbodyD88</cite>
+<cite label="Englert et al. 1989">conf/sigmetrics/EnglertGKS90</cite>
+<cite label="Epstein 1979">...</cite>
+<cite label="Epstein and Stonebraker 1980">conf/vldb/EpsteinS80</cite>
+<cite label="Epstein et al. 1978">conf/sigmod/EpsteinSW78</cite>
+<cite label="Fagin et al. 1979">journals/tods/FaginNPS79</cite>
+<cite label="Faloutsos 1985">journals/csur/Faloutsos85</cite>
+<cite label="Faloutsos and Sellis 1991">conf/vldb/FaloutsosNS91</cite>
+<cite label="Fang et al. 1986">conf/vldb/FangLC86</cite>
+<cite label="Finkel and Bentley 1974">journals/acta/FinkelB74</cite>
+<cite label="Freytag and Goodman 1989">journals/tods/FreytagG89</cite>
+<cite label="Fushimi et al. 1986">conf/vldb/FushimiKT86</cite>
+<cite label="Gallaire et al. 1984">journals/csur/GallaireMN84</cite>
+<cite label="Gerber 1986">...</cite>
+<cite label="Ghandeharizadeh and DeWitt 1990">conf/vldb/GhandeharizadehD90</cite>
+<cite label="Goodman and Woest 1988">conf/isca/GoodmanW88</cite>
+<cite label="Gouda and Dayal 1981">conf/sigmod/GoudaD81</cite>
+<cite label="Graefe 1993a">journals/tkde/Graefe94</cite>
+<cite label="Graefe 1993b">...</cite>
+<cite label="Graefe 1993c">conf/icde/Graefe94</cite>
+<cite label="Graefe 1991">journals/tse/Graefe91</cite>
+<cite label="Graefe 1990a">...</cite>
+<cite label="Graefe 1990b">conf/sigmod/Graefe90</cite>
+<cite label="Graefe 1989">conf/icde/Graefe89</cite>
+<cite label="Graefe and Cole 1993">journals/tods/GraefeC95</cite>
+<cite label="Graefe and Davison 1993">journals/tse/GraefeD93</cite>
+<cite label="Graefe and DeWitt 1987">conf/sigmod/GraefeD87</cite>
+<cite label="Graefe and Maier 1988">conf/oodbs/GraefeM88</cite>
+<cite label="Graefe and McKenna 1993">conf/icde/GraefeM93</cite>
+<cite label="Graefe and Shapiro 1991">...</cite>
+<cite label="Graefe and Ward 1989">conf/sigmod/GraefeW89</cite>
+<cite label="Graefe and Wolniewicz 1992">journals/debu/WolniewiczG93</cite>
+<cite label="Graefe et al. 1992">books/mk/freytagMV91/GraefeCDMW91</cite>
+<cite label="Graefe et al. 1993">journals/tkde/GraefeLS94</cite>
+<cite label="Gray 1990">...</cite>
+<cite label="Gray and Putzolo 1987">conf/sigmod/GrayP87</cite>
+<cite label="Gray and Reuter 1991">books/mk/GrayR93</cite>
+<cite label="Gray et al. 1981">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Gruenwald and Eich 1991">conf/sigmod/GruenwaldE91</cite>
+<cite label="Guenther and Bilmes 1991">journals/tkde/GuntherB91</cite>
+<cite label="Guibas and Sedgewick 1978">conf/focs/GuibasS78</cite>
+<cite label="Gunadhi and Segev 1991">conf/icde/GunadhiS91</cite>
+<cite label="Gunadhi and Segev 1990">conf/ssdbm/GunadhiS90</cite>
+<cite label="Gunther 1989">conf/icde/Gunther89</cite>
+<cite label="Gunther and Wong 1987">conf/vldb/GuntherW87</cite>
+<cite label="Guo et al. 1991">conf/icde/GuoSL91</cite>
+<cite label="Guttman 1984">conf/sigmod/Guttman84</cite>
+<cite label="Haas et al. 1990">journals/tkde/HaasCLMWLLPCS90</cite>
+<cite label="Haas et al. 1989">conf/sigmod/HaasFLP89</cite>
+<cite label="Haas et al. 1982">journals/debu/HaasSBDLLMMNWY82</cite>
+<cite label="Haerder and Reuter 1983">journals/csur/HarderR83</cite>
+<cite label="Hafez and Ozsoyoglu 1988">journals/debu/Hafez88</cite>
+<cite label="Hagmann 1986">conf/vldb/Hagmann86</cite>
+<cite label="Hamming 1977">...</cite>
+<cite label="Hanson 1987">conf/sigmod/Hanson87</cite>
+<cite label="Henrich et al. 1989">conf/vldb/HenrichSW89</cite>
+<cite label="Hoel and Samet 1992">conf/sigmod/HoelS92</cite>
+<cite label="Hong and Stonebraker 1993">journals/dpd/HongS93</cite>
+<cite label="Hong and Stonebraker 1991">conf/pdis/HongS91</cite>
+<cite label="Hou and Ozsoyoglu 1993">journals/tods/HouO93</cite>
+<cite label="Hou and Ozsoyoglu 1991">journals/tods/HouO91</cite>
+<cite label="Hou et al. 1991">conf/sigmod/HouOD91</cite>
+<cite label="Hsiao and DeWitt 1990">conf/icde/HsiaoD90</cite>
+<cite label="Hua and Lee 1991">conf/vldb/HuaL91</cite>
+<cite label="Hua and Lee 1990">conf/vldb/HuaL90</cite>
+<cite label="Hudson and King 1989">journals/tods/HudsonK89</cite>
+<cite label="Hull and King 1987">journals/csur/HullK87</cite>
+<cite label="Hutflesz et al. 1990">conf/icde/HutfleszSW90</cite>
+<cite label="Hutflesz et al. 1988a">conf/sigmod/HutfleszSW88</cite>
+<cite label="Hutflesz et al. 1988b">conf/edbt/HutfleszSW88</cite>
+<cite label="Ioannidis and Christodoulakis 1991">conf/sigmod/IoannidisC91</cite>
+<cite label="Iyer and Dias 1990">conf/icde/IyerD90</cite>
+<cite label="Jagadish 1991">conf/sigmod/Jagadish91</cite>
+<cite label="Jarke and Koch 1984">journals/csur/JarkeK84</cite>
+<cite label="Jarke and Vassiliou 1985">journals/csur/JarkeV85</cite>
+<cite label="Katz 1990">journals/csur/Katz90</cite>
+<cite label="Katz and Wong 1983">journals/tods/KatzW83</cite>
+<cite label="Keller et al. 1991">conf/sigmod/KellerGM91</cite>
+<cite label="Kemper and Moerkotte 1990a">conf/sigmod/KemperM90</cite>
+<cite label="Kemper and Moerkotte 1990b">conf/vldb/KemperM90</cite>
+<cite label="Kemper and Wallrath 1987">journals/csur/KemperW87</cite>
+<cite label="Kemper et al. 1991">conf/sigmod/KemperKM91</cite>
+<cite label="Kernighan and Ritchie 1978">books/ph/KernighanR78</cite>
+<cite label="Kim 1984">journals/csur/Kim84</cite>
+<cite label="Kim 1980">conf/sigmod/Kim80</cite>
+<cite label="Kitsuregawa and Ogawa 1990">conf/vldb/KitsuregawaO90</cite>
+<cite label="Kitsuregawa et al. 1989a">conf/vldb/KitsuregawaNT89</cite>
+<cite label="Kitsuregawa et al. 1983">journals/ngc/KitsuregawaTM83</cite>
+<cite label="Kitsuregawa et al. 1989b">conf/iwdm/KitsuregawaYF89</cite>
+<cite label="Klug 1982">journals/jacm/Klug82</cite>
+<cite label="Knapp 1987">journals/csur/Knapp87</cite>
+<cite label="Knuth 1973">books/aw/Knuth73</cite>
+<cite label="Kolovson and Stonebraker 1991">conf/sigmod/KolovsonS91</cite>
+<cite label="Kooi 1980">phd/Kooi80</cite>
+<cite label="Kooi and Frankforth 1982">journals/debu/KooiF82</cite>
+<cite label="Kriegel and Seeger 1988">conf/icde/KriegelS88</cite>
+<cite label="Kriegel and Seeger 1987">conf/icde/KriegelS87</cite>
+<cite label="Krishnamurthy et al. 1986">conf/vldb/KrishnamurthyBZ86</cite>
+<cite label="Kuespert et al. 1989">conf/fodo/KuspertSW89</cite>
+<cite label="Kumar and Burger 1991">conf/icde/KumarB91</cite>
+<cite label="Lakshmi and Yu 1990">journals/tkde/LakshmiY90</cite>
+<cite label="Lakshmi and Yu 1988">conf/dpds/LakshmiY88</cite>
+<cite label="Lanka and Mays 1991">conf/sigmod/LankaM91</cite>
+<cite label="Larson 1981">journals/tods/Larson81</cite>
+<cite label="Larson and Yang 1985">conf/vldb/LarsonY85</cite>
+<cite label="Lehman and Carey 1986">conf/sigmod/LehmanC86</cite>
+<cite label="Lelewer and Hirschberg 1987">journals/csur/LelewerH87</cite>
+<cite label="Leung and Muntz 1992">conf/vldb/LeungM92</cite>
+<cite label="Leung and Muntz 1990">conf/icde/LeungM90</cite>
+<cite label="Li and Naughton 1988">conf/dpds/LiN88</cite>
+<cite label="Litwin 1980">conf/vldb/Litwin80</cite>
+<cite label="Litwin et al. 1990">journals/csur/LitwinMR90</cite>
+<cite label="Lohman et al. 1985">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="Lomet 1992">journals/sigmod/Lomet92</cite>
+<cite label="Lomet and Salzberg 1990a">conf/sigmod/LometS90</cite>
+<cite label="Lomet and Salzberg 1990b">journals/tods/LometS90</cite>
+<cite label="Lorie and Nilsson 1979">journals/ibmrd/LorieN79</cite>
+<cite label="Lorie and Young 1989">conf/vldb/LorieY89</cite>
+<cite label="Lynch and Brownrigg 1981">conf/vldb/LynchB81</cite>
+<cite label="Lyytinen 1987">journals/csur/Lyytinen87</cite>
+<cite label="Mackert and Lohman 1989">journals/tods/MackertL89</cite>
+<cite label="Maier 1983">books/cs/Maier83</cite>
+<cite label="Maier and Stein 1986">conf/oodbs/MaierS86</cite>
+<cite label="Maier et al. 1992">conf/oodbs/MaierGSDKV92</cite>
+<cite label="Mannino et al. 1988">journals/csur/ManninoCS88</cite>
+<cite label="McKenzie and Snodgrass 1991">journals/csur/McKenzieS91</cite>
+<cite label="Medeiros and Tompa 1985">conf/vldb/MedeirosT85</cite>
+<cite label="Menon 1986">conf/vldb/Menon86</cite>
+<cite label="Mishra and Eich 1992">journals/csur/MishraE92</cite>
+<cite label="Mitschang 1989">conf/vldb/Mitschang89</cite>
+<cite label="Mohan et al. 1990">conf/edbt/MohanHWC90</cite>
+<cite label="Motro 1989">conf/icde/Motro89</cite>
+<cite label="Mullin 1990">journals/tse/Mullin90</cite>
+<cite label="Nakayama et al. 1988">conf/vldb/NakayamaK88</cite>
+<cite label="Neches 1988">...</cite>
+<cite label="Neches 1984">journals/computer/Neches84</cite>
+<cite label="Neugebauer 1991">conf/sigmod/Neugebauer91</cite>
+<cite label="Ng et al. 1991">conf/sigmod/NgFS91</cite>
+<cite label="Nievergelt et al. 1984">journals/tods/NievergeltHS84</cite>
+<cite label="Nyberg et al. 1993">conf/sigmod/NybergBCGL94</cite>
+<cite label="Omiecinski 1991">conf/vldb/Omiecinski91</cite>
+<cite label="Omiecinski 1985">conf/vldb/Omiecinski85</cite>
+<cite label="Omiecinski and Lin 1989">journals/tkde/OmiecinskiL89</cite>
+<cite label="Ono and Lohman 1990">conf/vldb/OnoL90</cite>
+<cite label="Ousterhout 1990">conf/usenix/Ousterhout90a</cite>
+<cite label="Ozsoyoglu and Wang 1992">conf/icde/OzsoyogluW92</cite>
+<cite label="Ozsoyoglu et al. 1987">journals/tods/OzsoyogluOM87</cite>
+<cite label="Ozsu and Valduriez 1991a">journals/computer/OzsuV91</cite>
+<cite label="Ozsu and Valduriez 1991b">books/ph/OzsuV91</cite>
+<cite label="Palmer and Zdonik 1991">conf/vldb/PalmerZ91</cite>
+<cite label="Peckham and Maryanski 1988">journals/csur/PeckhamM88</cite>
+<cite label="Pirahesh et al. 1990">conf/dpds/PiraheshMCLS90</cite>
+<cite label="Qadah 1988">conf/edbt/Qadah88</cite>
+<cite label="Rew and Davis 1990">...</cite>
+<cite label="Richardson and Carey 1987">conf/sigmod/RichardsonC87</cite>
+<cite label="Richardson et al. 1987">conf/sigmod/RichardsonLM87</cite>
+<cite label="Robinson 1981">conf/sigmod/Robinson81</cite>
+<cite label="Rosenthal and Reiner 1985">books/sp/kimrb85/RosenthalR85</cite>
+<cite label="Rosenthal et al. 1991">...</cite>
+<cite label="Rotem and Segev 1987">conf/icde/RotemS87</cite>
+<cite label="Roth et al. 1988">journals/tods/RothKS88</cite>
+<cite label="Rothnie et al. 1980">journals/tods/RothnieBFGHLRSW80</cite>
+<cite label="Roussopoulos 1991">journals/tods/Roussopoulos91</cite>
+<cite label="Roussopoulos 1991">journals/tkde/RoussopoulosK91</cite>
+<cite label="Ruth and Keutzer 1972">...</cite>
+<cite label="Saake et al. 1989">conf/vldb/SaakeLPW89</cite>
+<cite label="Sacco 1987">conf/vldb/Sacco87</cite>
+<cite label="Sacco and Schkolnik 1986">journals/tods/SaccoS86</cite>
+<cite label="Sacco and Schkolnik 1982">conf/vldb/SaccoS82</cite>
+<cite label="Sacks-Davis and Ramamohanarao 1983">journals/is/Sacks-DavisR83</cite>
+<cite label="Sacks-Davis et al. 1987">journals/tods/Sacks-DavisK87</cite>
+<cite label="Salzberg 1990">journals/acta/Salzberg89</cite>
+<cite label="Salzberg 1988">books/ph/Salzberg88</cite>
+<cite label="Salzberg et al. 1990">conf/sigmod/SalzbergTGSUV90</cite>
+<cite label="Samet 1984">journals/csur/Samet84</cite>
+<cite label="Schek and Scholl 1986">journals/is/SchekS86</cite>
+<cite label="Schneider 1991">...</cite>
+<cite label="Schneider 1990">...</cite>
+<cite label="Schneider and DeWitt 1990">conf/vldb/SchneiderD90</cite>
+<cite label="Schneider and DeWitt 1989">conf/sigmod/SchneiderD89</cite>
+<cite label="Scholl 1988">...</cite>
+<cite label="Scholl et al. 1987">conf/vldb/SchollPS87</cite>
+<cite label="Seeger and Larson 1991">conf/sigmod/SeegerL91</cite>
+<cite label="Segev and Gunadhi 1989">conf/vldb/SegevG89</cite>
+<cite label="Selinger et al. 1979">conf/sigmod/SelingerACLP79</cite>
+<cite label="Sellis 1987">conf/sigmod/Sellis87</cite>
+<cite label="Seppi et al. 1989">...</cite>
+<cite label="Serlin 1991">...</cite>
+<cite label="Seshadri and Naughton 1992">conf/edbt/SeshadriN92</cite>
+<cite label="Severance 1983">journals/is/Severance83</cite>
+<cite label="Severance and Lohman 1976">journals/tods/SeveranceL76</cite>
+<cite label="Severance et al. 1990">conf/vldb/SeverancePW90</cite>
+<cite label="Shapiro 1986">journals/tods/Shapiro86</cite>
+<cite label="Shaw and Zdonik 1990">conf/icde/ShawZ90</cite>
+<cite label="Shaw and Zdonik 1989a">journals/debu/ShawZ89</cite>
+<cite label="Shaw and Zdonik 1989b">conf/dbpl/ShawZ89</cite>
+<cite label="Shekita and Carey 1990">conf/sigmod/ShekitaC90</cite>
+<cite label="Sherman and Brice 1976">journals/tods/ShermanB76</cite>
+<cite label="Sheth and Larson 1990">journals/csur/ShethL90</cite>
+<cite label="Shipman 1981">journals/tods/Shipman81</cite>
+<cite label="Sikeler 1988">conf/edbt/Sikeler88</cite>
+<cite label="Silberschatz et al. 1991">journals/cacm/SilberschatzSU91</cite>
+<cite label="Six and Widmayer 1988">conf/icde/SixW88</cite>
+<cite label="Smith and Chang 1975">journals/cacm/SmithC75</cite>
+<cite label="Snodgrass 1990">journals/sigmod/Snodgrass90</cite>
+<cite label="Sockut and Goldberg 1979">journals/csur/SockutG79</cite>
+<cite label="Srinavasan and Carey 1992">conf/edbt/SrinivasanC92</cite>
+<cite label="Srinavasan and Carey 1991">conf/sigmod/SrinivasanC91</cite>
+<cite label="Stamos and Young 1989">...</cite>
+<cite label="Stonebraker 1991">conf/sigmod/Stonebraker91</cite>
+<cite label="Stonebraker 1987">conf/vldb/Stonebraker87</cite>
+<cite label="Stonebraker 1986a">journals/debu/Stonebraker86</cite>
+<cite label="Stonebraker 1986b">...</cite>
+<cite label="Stonebraker 1981">journals/cacm/Stonebraker81</cite>
+<cite label="Stonebraker 1975">conf/sigmod/Stonebraker75</cite>
+<cite label="Stonebraker et al. ">...</cite>
+<cite label="Stonebraker et al. 1990a">conf/sigmod/StonebrakerJGP90</cite>
+<cite label="Stonebraker et al. 1988b">conf/vldb/StonebrakerKPO88</cite>
+<cite label="Stonebraker et al. 1990b">journals/tkde/StonebrakerRH90</cite>
+<cite label="Straube and Ozsu 1989">...</cite>
+<cite label="Su 1988">...</cite>
+<cite label="Tansel and Garnett 1992">journals/tods/TanselG92</cite>
+<cite label="Teoroy et al. 1986">journals/csur/TeoreyYF86</cite>
+<cite label="Teradata 1983">...</cite>
+<cite label="Thomas et al. 1990">journals/csur/ThomasTCBCTFH90</cite>
+<cite label="Tompa and Blakeley 1988">journals/is/TompaB88</cite>
+<cite label="Traiger 1982">journals/sigops/Traiger82</cite>
+<cite label="Traiger et al. 1982">journals/tods/TraigerGGL82</cite>
+<cite label="Tsur and Zaniolo 1984">conf/sigmod/TsurZ84</cite>
+<cite label="Tukey 1977">...</cite>
+<cite label="Unidata 1991">...</cite>
+<cite label="Valduriez 1987">journals/tods/Valduriez87</cite>
+<cite label="Vandenberg and DeWitt 1991">conf/sigmod/VandenbergD91</cite>
+<cite label="Walton 1989">...</cite>
+<cite label="Walton et al. 1991">conf/vldb/WaltonDJ91</cite>
+<cite label="Whang and Krishnamurthy 1990">journals/tods/WhangK90</cite>
+<cite label="Whang et al. 1985">books/sp/kimrb85/WhangWS85</cite>
+<cite label="Whang et al. 1984">journals/tc/WhangWS84</cite>
+<cite label="Williams et al. 1982">conf/jcdkb/WilliamsDHLLNOSWWY82</cite>
+<cite label="Wilschut 1993">...</cite>
+<cite label="Wilschut 1993">journals/dpd/WilschutA93</cite>
+<cite label="Wolf et al. 1990">conf/dpds/WolfDY90</cite>
+<cite label="Wolf et al. 1991">conf/icde/WolfDYT91</cite>
+<cite label="Wolniewicz and Graefe 1993">conf/vldb/WolniewiczG93</cite>
+<cite label="Wong and Katz 1983">conf/sigmod/WongK83</cite>
+<cite label="Wong and Youssefi 1976">journals/tods/WongY76</cite>
+<cite label="Yang and Larson 1987">conf/vldb/YangL87</cite>
+<cite label="Youssefi and Wong 1979">conf/vldb/YoussefiW79</cite>
+<cite label="Yu and Chang 1984">journals/csur/YuC84</cite>
+<cite label="Yu and Osborn 1991">conf/icde/YuO91</cite>
+<cite label="Zaniolo 1983">conf/sigmod/Zaniolo83</cite>
+<cite label="Zaniolo 1979">conf/sigmod/Zaniolo79</cite>
+<cite label="Zeller 1990">...</cite>
+<cite label="Zeller and Gray 1990">conf/vldb/ZellerG90</cite>
+</article>
+
+<incollection mdate="2013-09-10" key="series/cogtech/SchweitzerBDKMMMST06">
+<author>Antje Schweitzer</author>
+<author>Norbert Braunschweiler</author>
+<author>Grzegorz Dogil</author>
+<author>Tanja Klankert</author>
+<author>Bernd M&ouml;bius</author>
+<author>Gregor M&ouml;hler</author>
+<author>Edmilson Morais</author>
+<author>Bettina S&auml;uberlich</author>
+<author>Matthias Thomae</author>
+<title>Multimodal Speech Synthesis.</title>
+<pages>411-435</pages>
+<year>2006</year>
+<booktitle>SmartKom</booktitle>
+<ee>http://dx.doi.org/10.1007/3-540-36678-4_27</ee>
+<crossref>series/cogtech/54023732</crossref>
+<url>db/series/cogtech/54023732.html#SchweitzerBDKMMMST06</url>
+</incollection>
+<article mdate="2013-12-15" key="journals/irob/GrzybCMP09">
+<author>Beata Grzyb</author>
+<author>Eris Chinellato</author>
+<author>Antonio Morales</author>
+<author>Angel P. Del Pobil</author>
+<title>A 3D grasping system based on multimodal visual and tactile processing.</title>
+<pages>365-369</pages>
+<year>2009</year>
+<volume>36</volume>
+<journal>Industrial Robot</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1108/01439910910957138</ee>
+<url>db/journals/irob/irob36.html#GrzybCMP09</url>
+</article>
+<proceedings mdate="2007-01-15" key="conf/pdcat/2006">
+<title>Seventh International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT 2006), 4-7 December 2006, Taipei, Taiwan</title>
+<booktitle>PDCAT</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2006</year>
+<url>db/conf/pdcat/pdcat2006.html</url>
+<isbn>0-7695-2736-1</isbn>
+</proceedings>
+<proceedings mdate="2006-07-26" key="conf/bis/2006">
+<editor>Witold Abramowicz</editor>
+<editor>Heinrich C. Mayr</editor>
+<title>Business Information Systems, 9th International Conference on Business Information Systems, BIS 2006, May 31 - June 2, 2006, Klagenfurt, Austria</title>
+<booktitle>BIS</booktitle>
+<series href="db/series/lni/index.html">LNI</series>
+<volume>85</volume>
+<publisher>GI</publisher>
+<year>2006</year>
+<isbn>3-88579-179-X</isbn>
+<url>db/conf/bis/bis2006.html</url>
+</proceedings>
+<proceedings mdate="2009-09-16" key="conf/wirn/2008">
+<editor>Bruno Apolloni</editor>
+<editor>Simone Bassis</editor>
+<editor>Maria Marinaro</editor>
+<title>New Directions in Neural Networks - 18th Italian Workshop on Neural Networks: WIRN 2008, Vietri sul Mare, Italy, May 22-24, 2008, Revised Selected Papers</title>
+<volume>193</volume>
+<year>2009</year>
+<isbn>978-1-58603-984-4</isbn>
+<booktitle>WIRN</booktitle>
+<series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+<publisher>IOS Press</publisher>
+<url>db/conf/wirn/wirn2008.html</url>
+</proceedings>
+
+<proceedings mdate="2011-11-10" key="conf/wirn/2004">
+<editor>Bruno Apolloni</editor>
+<editor>Maria Marinaro</editor>
+<editor>Roberto Tagliaferri</editor>
+<title>Biological and Artificial Intelligence Environments - 15th Italian Workshop on Neural Nets, WIRN VIETRI 2004, Vietri sul Mare, Italy, 2004</title>
+<publisher>Springer</publisher>
+<year>2010</year>
+<isbn>978-90-481-6863-7</isbn>
+<ee>http://dx.doi.org/10.1007/1-4020-3432-6</ee>
+<booktitle>WIRN</booktitle>
+<url>db/conf/wirn/wirn2004.html</url>
+</proceedings>
+<proceedings mdate="2009-09-11" key="conf/bis/2009w">
+<editor>Witold Abramowicz</editor>
+<editor>Dominik Flejter</editor>
+<title>Business Information Systems Workshops, BIS 2009 International Workshops, Poznan, Poland, April 27-29, 2009. Revised Papers</title>
+<volume>37</volume>
+<ee>http://dx.doi.org/10.1007/978-3-642-03424-4</ee>
+<year>2009</year>
+<isbn>978-3-642-03423-7</isbn>
+<booktitle>BIS (Workshops)</booktitle>
+<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+<publisher>Springer</publisher>
+<url>db/conf/bis/bisw2009.html</url>
+</proceedings>
+<inproceedings mdate="2011-11-18" key="conf/atal/ErriquezHW11">
+<author>Elisabetta Erriquez</author>
+<author>Wiebe van der Hoek</author>
+<author>Michael Wooldridge</author>
+<title>An abstract framework for reasoning about trust.</title>
+<pages>1085-1086</pages>
+<year>2011</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=2034430&amp;CFID=69154334&amp;CFTOKEN=45298625</ee>
+<crossref>conf/atal/2011</crossref>
+<url>db/conf/atal/aamas2011.html#ErriquezHW11</url>
+</inproceedings>
+<book mdate="2013-09-10" key="series/cogtech/54023732">
+<editor>Wolfgang Wahlster</editor>
+<title>SmartKom: Foundations of Multimodal Dialogue Systems</title>
+<year>2006</year>
+<publisher>Springer</publisher>
+<series href="db/series/cogtech/index.html">Cognitive Technologies</series>
+<ee>http://dx.doi.org/10.1007/3-540-36678-4</ee>
+<isbn>978-3-540-23732-7</isbn>
+<booktitle>SmartKom</booktitle>
+<url>db/series/cogtech/54023732.html</url>
+</book>
+<proceedings mdate="2009-05-11" key="conf/ispw/2009">
+<editor>Qing Wang</editor>
+<editor>Vahid Garousi</editor>
+<editor>Raymond J. Madachy</editor>
+<editor>Dietmar Pfahl</editor>
+<title>Trustworthy Software Development Processes, International Conference on Software Process, ICSP 2009 Vancouver, Canada, May 16-17, 2009 Proceedings</title>
+<volume>5543</volume>
+<year>2009</year>
+<ee>http://dx.doi.org/10.1007/978-3-642-01680-6</ee>
+<isbn>978-3-642-01679-0</isbn>
+<booktitle>ICSP</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/ispw/icsp2009.html</url>
+</proceedings>
+<proceedings mdate="2003-05-06" key="conf/ispw/1986">
+<editor>Mark Dowson</editor>
+<title>Proceedings of the Third International Software Process Workshop (ISPW '86), November 1986, Beckenridge, Colorado, USA</title>
+<booktitle>ISPW</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>1986</year>
+<url>db/conf/ispw/ispw1986.html</url>
+</proceedings>
+<proceedings mdate="2003-04-02" key="conf/ispw/1993">
+<editor>Wilhelm Sch&auml;fer</editor>
+<title>State of the Practice in Process Technology, Proceedings of the Eighth International Software Process Workshop (ISPW '93), March 2-5, 1993, Wadern, Schloss Dagstuhl, Germany</title>
+<booktitle>ISPW</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>1993</year>
+<url>db/conf/ispw/ispw1993.html</url>
+<isbn>0-8186-4060-X</isbn>
+</proceedings>
+<proceedings mdate="2012-05-23" key="conf/pods/98">
+<editor>Alberto O. Mendelzon</editor>
+<editor>Jan Paredaens</editor>
+<title>Proceedings of the Seventeenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 1-3, 1998, Seattle, Washington, USA</title>
+<publisher>ACM Press</publisher>
+<year>1998</year> 
+<isbn>0-89791-996-3</isbn>
+<url>db/conf/pods/pods98.html</url>
+<ee>http://dl.acm.org/citation.cfm?id=275487</ee>
+</proceedings>
+<proceedings mdate="2012-06-26" key="conf/egh/2012">
+<editor>Carsten Dachsbacher</editor>
+<editor>Jacob Munkberg</editor>
+<editor>Jacopo Pantaleoni</editor>
+<title>Proceedings of the EUROGRAPHICS Conference on High Performance Graphics 2012, Paris, France, June 25-27, 2012</title>
+<booktitle>High Performance Graphics</booktitle>
+<publisher>Eurographics Association</publisher>
+<year>2012</year>
+<url>db/conf/egh/hpg2012.html</url>
+<isbn>978-3-905674-41-5</isbn>
+</proceedings>
+<article mdate="2014-05-25" key="journals/irob/MashayekhiNYMAN14">
+<author>Ahmad Mashayekhi</author>
+<author>Ali Nahvi</author>
+<author>Mojtaba Yazdani</author>
+<author>Majid Mohammadi Moghaddam</author>
+<author>Mohamadreza Arbabtafti</author>
+<author>Mohsen Norouzi</author>
+<title>VirSense: a novel haptic device with fixed-base motors and a gravity compensation system.</title>
+<pages>37-49</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Industrial Robot</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1108/IR-02-2013-328</ee>
+<url>db/journals/irob/irob41.html#MashayekhiNYMAN14</url>
+</article>
+<inproceedings mdate="2013-10-28" key="conf/mwcn/HwangPKY13">
+<author>Seunggye Hwang</author>
+<author>Junghun Park</author>
+<author>Dong Ku Kim</author>
+<author>Janghoon Yang</author>
+<title>SNR efficient transmission for compressive sensing based wireless sensor networks.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>WMNC</booktitle>
+<ee>http://dx.doi.org/10.1109/WMNC.2013.6548981</ee>
+<crossref>conf/mwcn/2013</crossref>
+<url>db/conf/mwcn/wmnc2013.html#HwangPKY13</url>
+</inproceedings>
+<incollection mdate="2013-09-10" key="series/cogtech/SchmitzBNSS13">
+<author>Michael Schmitz</author>
+<author>Boris Brandherm</author>
+<author>J&ouml;rg Neidig</author>
+<author>Stefanie Schachtl</author>
+<author>Matthias Schuster</author>
+<title>Interaction Modalities for Digital Product Memories.</title>
+<pages>261-279</pages>
+<year>2013</year>
+<booktitle>SemProM</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-37377-0_16</ee>
+<crossref>series/cogtech/364237376</crossref>
+<url>db/series/cogtech/364237376.html#SchmitzBNSS13</url>
+</incollection>
+<inproceedings mdate="2006-02-10" key="conf/siguccs/OwenH96">
+<author>Shelley Owen</author>
+<author>Bronwen Heuer</author>
+<title>Telecommuting to the university (panel).</title>
+<pages>13</pages>
+<year>1996</year>
+<crossref>conf/siguccs/1996</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>http://doi.acm.org/10.1145/262051.262056</ee>
+<url>db/conf/siguccs/siguccs1996.html#OwenH96</url>
+</inproceedings>
+<book mdate="2014-08-07" key="series/cogtech/Nugues14">
+<author>Pierre M. Nugues</author>
+<title>Language Processing with Perl and Prolog - Theories, Implementation, and Application</title>
+<year>2014</year>
+<pages>1-574</pages>
+<publisher>Springer</publisher>
+<series href="db/series/cogtech/index.html">Cognitive Technologies</series>
+<isbn>978-3-642-41463-3</isbn>
+<isbn>978-3-642-41464-0</isbn>
+<ee>http://dx.doi.org/10.1007/978-3-642-41464-0</ee>
+</book>
+<incollection mdate="2013-09-10" key="series/cogtech/WahlsterFGHJKSSW11">
+<author>Wolfgang Wahlster</author>
+<author>Michael Feld</author>
+<author>Patrick Gebhard</author>
+<author>Dominikus Heckmann</author>
+<author>Ralf Jung</author>
+<author>Michael Kruppa</author>
+<author>Michael Schmitz</author>
+<author>L&uuml;bomira Spassova</author>
+<author>Rainer Wasinger</author>
+<title>The Shopping Experience of Tomorrow: Human-Centered and Resource-Adaptive.</title>
+<pages>205-237</pages>
+<year>2011</year>
+<booktitle>Resource-Adaptive Cognitive Processes</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-89408-7_10</ee>
+<crossref>series/cogtech/354089408</crossref>
+<url>db/series/cogtech/354089408.html#WahlsterFGHJKSSW11</url>
+</incollection>
+<incollection mdate="2013-09-10" key="series/cogtech/ZimmerMU11">
+<author>Hubert D. Zimmer</author>
+<author>Stefan M&uuml;nzer</author>
+<author>Katja Umla-Runge</author>
+<title>Visuo-spatial Working Memory as a Limited Resource of Cognitive Processing.</title>
+<pages>13-34</pages>
+<year>2011</year>
+<booktitle>Resource-Adaptive Cognitive Processes</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-89408-7_2</ee>
+<crossref>series/cogtech/354089408</crossref>
+<url>db/series/cogtech/354089408.html#ZimmerMU11</url>
+</incollection>
+
+<www key="homepages/75/8938" mdate="2011-01-09">
+<crossref>homepages/m/MarieFrancineMoens</crossref>
+</www>
+<article mdate="2014-07-09" key="journals/irob/QuZ14">
+<author>Yufeng Qu</author>
+<author>Guanghua Zong</author>
+<title>Automated de-stacking using compact and low-cost robotized system.</title>
+<pages>176-189</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Industrial Robot</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1108/IR-06-2013-368</ee>
+<url>db/journals/irob/irob41.html#QuZ14</url>
+</article>
+<article mdate="2013-12-14" key="journals/irob/Bogue13">
+<author>Robert Bogue</author>
+<title>Can robots help to feed the world?</title>
+<pages>4-9</pages>
+<year>2013</year>
+<volume>40</volume>
+<journal>Industrial Robot</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1108/01439911311294200</ee>
+<url>db/journals/irob/irob40.html#Bogue13</url>
+</article>
+<article mdate="2013-12-14" key="journals/irob/BondoMVMBTO11">
+<author>Morten Steen Bond&oslash;</author>
+<author>John Reidar Mathiassen</author>
+<author>Petter Aaby Vebenstad</author>
+<author>Ekrem Misimi</author>
+<author>Eirin Marie Skj&oslash;ndal Bar</author>
+<author>Bendik Toldnes</author>
+<author>Stein Ove &Oslash;stvik</author>
+<title>An automated salmonid slaughter line using machine vision.</title>
+<pages>399-405</pages>
+<year>2011</year>
+<volume>38</volume>
+<journal>Industrial Robot</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1108/01439911111132085</ee>
+<url>db/journals/irob/irob38.html#BondoMVMBTO11</url>
+</article>
+<article mdate="2014-01-17" key="journals/irob/ZhangWZC14">
+<author>Tao Zhang</author>
+<author>Minghui Wu</author>
+<author>Yanzheng Zhao</author>
+<author>Shanben Chen</author>
+<title>Motion planning for a new-model obstacle-crossing mobile welding robot.</title>
+<pages>87-97</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Industrial Robot</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1108/IR-05-2013-353</ee>
+<url>db/journals/irob/irob41.html#ZhangWZC14</url>
+</article>
+<article mdate="2014-06-26" key="journals/irob/HouQZ07">
+<author>Jian Hou</author>
+<author>Nai M. Qi</author>
+<author>Hong Zhang</author>
+<title>A multi-stage matching algorithm for mobile robot navigation.</title>
+<pages>54-59</pages>
+<year>2007</year>
+<volume>34</volume>
+<journal>Industrial Robot</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1108/01439910710718450</ee>
+<url>db/journals/irob/irob34.html#HouQZ07</url>
+</article>
+<incollection mdate="2013-09-10" key="series/cogtech/RistABGKKR004">
+<author>Thomas Rist</author>
+<author>Elisabeth Andr&eacute;</author>
+<author>Stephan Baldes</author>
+<author>Patrick Gebhard</author>
+<author>Martin Klesen</author>
+<author>Michael Kipp</author>
+<author>Peter Rist</author>
+<author>Markus Schmitt 0002</author>
+<title>A Review of the Development of Embodied Presentation Agents and Their Application Fields.</title>
+<pages>377-404</pages>
+<year>2004</year>
+<booktitle>Life-like characters</booktitle>
+<crossref>series/cogtech/354000867</crossref>
+<url>db/series/cogtech/354000867.html#RistABGKKR004</url>
+</incollection>
+
+<incollection mdate="2013-09-10" key="series/cogtech/Wittig11">
+<author>Frank Wittig</author>
+<title>Comparison of Machine Learning Techniques for Bayesian Networks for User-Adaptive Systems.</title>
+<pages>315-336</pages>
+<year>2011</year>
+<booktitle>Resource-Adaptive Cognitive Processes</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-89408-7_14</ee>
+<crossref>series/cogtech/354089408</crossref>
+<url>db/series/cogtech/354089408.html#Wittig11</url>
+</incollection>
+
+<phdthesis key="phd/de/Stuckenholz2007" mdate="2012-05-04">
+<author>Alexander Stuckenholz</author>
+<title>Kompatibilitätsbewahrende Komponentenupdates.</title>
+<year>2007</year>
+<school>FernUniversität in Hagen</school>
+<pages>1-245</pages>
+<publisher>VDI-Verlag</publisher>
+<series>Fortschritt-Berichte VDI Reihe 10</series>
+<volume>785</volume>
+<isbn>978-3-18-378510-0</isbn>
+<note type="dnb">http://d-nb.info/987005448</note>
+<ee>
+http://www.vdi-nachrichten.com/onlineshops/buchshop/literaturshop/langanzeige.asp?vr_id=7673
+</ee>
+</phdthesis>
+
+<incollection mdate="2013-09-10" key="series/cogtech/Zancanaro12">
+<author>Massimo Zancanaro</author>
+<title>Shared Interfaces for Co-located Interaction.</title>
+<pages>71-88</pages>
+<year>2012</year>
+<booktitle>Ubiquitous Display Environments</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-27663-7_5</ee>
+<crossref>series/cogtech/364227662</crossref>
+<url>db/series/cogtech/364227662.html#Zancanaro12</url>
+</incollection>
+
+<proceedings key="conf/icde/2001d" mdate="2002-07-03">
+<title>
+ICDE 2001, Demo Session Abstracts (Informal Proceedings)
+</title>
+<year>2001</year>
+<url>db/conf/icde/icde2001d.html</url>
+</proceedings>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/xquery">
+<editor>Donald D. Chamberlin</editor>
+<editor>Daniela Florescu</editor>
+<editor>Jonathan Robie</editor>
+<editor>J&eacute;r&ocirc;me Sim&eacute;on</editor>
+<editor>Mugur Stefanescu</editor>
+<title>XQuery: A Query Language for XML</title>
+<year>2001</year>
+<url>http://www.w3.org/TR/xquery</url>
+</www>
+
+</dblp>

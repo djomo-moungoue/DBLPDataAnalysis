@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>dblp statistics</title>
+
+
+<!-- START JAVASCRIPT CODE -->
+
+
+<!-- ONLINE MODUS -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/highcharts-more.js"></script>
+<script src="http://code.highcharts.com/modules/data.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+
+<!-- OFFLINE MODUS -->
+
+<!-- 
+<script src="jquery-1.11.1.min.js"></script>
+<script src="highcharts.js"></script>
+<script src="highcharts-more.js"></script>
+<script src="data.js"></script>
+<script src="exporting.js"></script>
+ -->
+
+
+<script>
+$(function () {
+console.info("%c Start Column Chart Output", "color: darkgreen; font-family: arial; font-weight: bold; background-color: gray");
+console.time("drawColumnChart Run Time");
+var count = 0;
+console.info(count, ". Inside document ready");
+var options = {
+chart:{
+type: 'column',
+backgroundColor: '#F0F0F8',
+shadow: true,
+zoomType: 'xy'
+},
+
+//Defines a title object.
+title: {
+text: 'Number of electronic versions made the same year'
+},
+
+//Defines a subtitle object.
+subtitle: {
+text: 'Data input from csv'
+},
+
+//Defines a xAxis object.
+xAxis:{
+//Categories are represented by data in the first column of the csv document.
+categories: []
+},
+
+//Defines a yAxis object.
+yAxis:{
+title: {
+text: 'Electronic Versions'
+}
+},
+
+//Defines a data object and stores the content of the csv document inside.
+data: {
+csv: document.getElementById('csvColumnChart').innerHTML
+},
+//Series are represented by data from the second column of the csv document.
+series: []
+};
+$("#containerColumnChart").highcharts(options);
+console.info(++count, ". chart type: ", options.chart.type);
+console.info(++count, ". title: ", options.title.text);
+console.info(++count, ". yAxis title: ", options.yAxis.title);
+console.timeEnd("drawBoxPlot Run Time");
+console.info("%c End Column Chart Output", "color: darkgreen; font-family: arial; font-weight: bold; background-color: gray");
+});
+</script>
+
+<script>
+$(document).ready(function(){
+console.info("%c Start Box Plot Output", "color: darkred; font-family: arial; font-weight: bold; background-color: gray");
+console.time("drawBoxPlot Run Time");
+//counter for the output on the console
+var count = 0;
+console.info(count, ". Inside document ready");
+
+// creates the options object
+var options = {
+chart:{
+type: 'boxplot',
+backgroundColor: '#F0F0F8'
+},
+title:{
+text: 'Frequency distribution of electronic versions un to now'
+},
+xAxis: {
+categories: []
+},
+yAxis: {
+title: {
+text: 'Frequency Distribution'
+},
+plotLines: [{
+value: parseFloat(document.getElementById('meanBoxPlot').innerHTML),
+color: 'green',
+width: 2,
+label: {
+text: 'Arithmetic Mean: '+document.getElementById('meanBoxPlot').innerHTML,
+align: 'left',
+style: {
+color: 'darkgreen'
+}
+}
+}]
+},
+legend: {
+enable: true
+},
+data: {
+csv : document.getElementById('csvBoxPlot').innerHTML,
+},
+series: []
+};
+
+//stores the content of the csv property and tokenizes it
+var csvData = options.data.csv
+console.info(++count, ". options.data.csv: ", csvData);
+var csvItem = csvData.split(",");
+var parsedCsvItem = [];
+
+//creates a series object
+var mySeries = {
+name: 'Electronic Versions',
+data: []
+};
+
+// push the data in the series array
+$.each(csvItem,  function(itemNo, item){
+parsedCsvItem.push(parseFloat(item));
+});
+mySeries.data.push(parsedCsvItem);
+options.series.push(mySeries);
+
+//draws the box plot on the given container in the html page
+$("#containerBoxPlot").highcharts(options);
+
+//browser console output to check whether everything worked as planned
+console.info(++count, ". chart type: ", options.chart.type);
+console.info(++count, ". title: ", options.title.text);
+console.info(++count, ". xAxis categories: ", options.xAxis.categories);
+console.info(++count, ". yAxis title: ", options.yAxis.title);
+console.info(++count, ". data: ", options.data);
+console.info(++count, ". series: ", options.series);
+console.info(++count, ". mean: ", options.yAxis.plotLines.value);
+console.info(++count, ". options.yAxis.myPlotLines: ", options.yAxis.plotLines);
+console.timeEnd("drawBoxPlot Run Time");
+console.info("%c End Box Plot Output", "color: darkred; font-family: arial; font-weight: bold; background-color: gray");
+});
+</script>
+
+<!-- END JAVASCRIPT CODE -->
+
+
+</head>
+<body>
+	<p><h1>DBLP Statistic - University of Trier</h1></p>
+<p><h3>Column Chart   18/03/2015  -  15:20:22</h3></p>
+<div id="containerColumnChart" style="width:1250px; height: 500px; margin: 0 auto"></div>
+<pre id="csvColumnChart" style="display:none">
+Year ,  Electronic versions
+ 1936 , 12
+1937 , 15
+1938 , 10
+1939 , 18
+1940 , 10
+1941 , 13
+1942 , 13
+1943 , 8
+1944 , 5
+1945 , 9
+1946 , 31
+1947 , 10
+1948 , 15
+1949 , 23
+1950 , 21
+1951 , 17
+1952 , 20
+1953 , 71
+1954 , 72
+1955 , 66
+1956 , 145
+1957 , 124
+1958 , 167
+1959 , 260
+1960 , 297
+1961 , 484
+1962 , 635
+1963 , 616
+1964 , 591
+1965 , 667
+1966 , 753
+1967 , 1052
+1968 , 1113
+1969 , 1161
+1970 , 1275
+1971 , 1355
+1972 , 1851
+1973 , 1946
+1974 , 2336
+1975 , 2618
+1976 , 2984
+1977 , 2764
+1978 , 3349
+1979 , 3358
+1980 , 3909
+1981 , 4111
+1982 , 4984
+1983 , 5223
+1984 , 6105
+1985 , 6193
+1986 , 7211
+1987 , 8361
+1988 , 10549
+1989 , 12470
+1990 , 15145
+1991 , 17226
+1992 , 19686
+1993 , 23336
+1994 , 27641
+1995 , 31251
+1996 , 35068
+1997 , 38757
+1998 , 43009
+1999 , 47882
+2000 , 57107
+2001 , 63896
+2002 , 73431
+2003 , 88254
+2004 , 104831
+2005 , 127469
+2006 , 143809
+2007 , 158028
+2008 , 171872
+2009 , 191305
+2010 , 195024
+2011 , 208628
+2012 , 215221
+2013 , 218753
+2014 , 153414
+2015 , 1424
+</pre>
+<p><h3>Box plot   18/03/2015  -  15:20:22</h3></p>
+<div id="containerBoxPlot" style="width:1280px; height: 500px; margin: 0 auto"></div>
+<pre id="csvBoxPlot" style="display:none">
+5.00, 98.00, 2477.00, 29446.00, 218753.00
+</pre>
+<pre id="meanBoxPlot" style="display:none">
+32161.79
+</pre>
+<div id="variance_and_standard_deviation">
+
+Variance:  3584558361.27
+<br/>
+Standard Deviation:  59871.18
+<br/></div>
+</body>
+</html>

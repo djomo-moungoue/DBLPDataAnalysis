@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>dblp statistics</title>
+
+
+<!-- START JAVASCRIPT CODE -->
+
+
+<!-- ONLINE MODUS -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/highcharts-more.js"></script>
+<script src="http://code.highcharts.com/modules/data.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+
+<!-- OFFLINE MODUS -->
+
+<!-- 
+<script src="jquery-1.11.1.min.js"></script>
+<script src="highcharts.js"></script>
+<script src="highcharts-more.js"></script>
+<script src="data.js"></script>
+<script src="exporting.js"></script>
+ -->
+
+
+<script>
+$(function () {
+console.info("%c Start Column Chart Output", "color: darkgreen; font-family: arial; font-weight: bold; background-color: gray");
+console.time("drawColumnChart Run Time");
+var count = 0;
+console.info(count, ". Inside document ready");
+var options = {
+chart:{
+type: 'column',
+backgroundColor: '#F0F0F8',
+shadow: true,
+zoomType: 'xy'
+},
+
+//Defines a title object.
+title: {
+text: 'Number of author/editror names which have the same number of characters'
+},
+
+//Defines a subtitle object.
+subtitle: {
+text: 'Data input from csv'
+},
+
+//Defines a xAxis object.
+xAxis:{
+//Categories are represented by data in the first column of the csv document.
+categories: []
+},
+
+//Defines a yAxis object.
+yAxis:{
+title: {
+text: 'Person Names'
+}
+},
+
+//Defines a data object and stores the content of the csv document inside.
+data: {
+csv: document.getElementById('csvColumnChart').innerHTML
+},
+//Series are represented by data from the second column of the csv document.
+series: []
+};
+$("#containerColumnChart").highcharts(options);
+console.info(++count, ". chart type: ", options.chart.type);
+console.info(++count, ". title: ", options.title.text);
+console.info(++count, ". yAxis title: ", options.yAxis.title);
+console.timeEnd("drawBoxPlot Run Time");
+console.info("%c End Column Chart Output", "color: darkgreen; font-family: arial; font-weight: bold; background-color: gray");
+});
+</script>
+
+<script>
+$(document).ready(function(){
+console.info("%c Start Box Plot Output", "color: darkred; font-family: arial; font-weight: bold; background-color: gray");
+console.time("drawBoxPlot Run Time");
+//counter for the output on the console
+var count = 0;
+console.info(count, ". Inside document ready");
+
+// creates the options object
+var options = {
+chart:{
+type: 'boxplot',
+backgroundColor: '#F0F0F8'
+},
+title:{
+text: 'Frequency distribution of characters inside person names'
+},
+xAxis: {
+categories: []
+},
+yAxis: {
+title: {
+text: 'Frequency Distribution'
+},
+plotLines: [{
+value: parseFloat(document.getElementById('meanBoxPlot').innerHTML),
+color: 'green',
+width: 2,
+label: {
+text: 'Arithmetic Mean: '+document.getElementById('meanBoxPlot').innerHTML,
+align: 'left',
+style: {
+color: 'darkgreen'
+}
+}
+}]
+},
+legend: {
+enable: true
+},
+data: {
+csv : document.getElementById('csvBoxPlot').innerHTML,
+},
+series: []
+};
+
+//stores the content of the csv property and tokenizes it
+var csvData = options.data.csv
+console.info(++count, ". options.data.csv: ", csvData);
+var csvItem = csvData.split(",");
+var parsedCsvItem = [];
+
+//creates a series object
+var mySeries = {
+name: 'Characters in Person Names',
+data: []
+};
+
+// push the data in the series array
+$.each(csvItem,  function(itemNo, item){
+parsedCsvItem.push(parseFloat(item));
+});
+mySeries.data.push(parsedCsvItem);
+options.series.push(mySeries);
+
+//draws the box plot on the given container in the html page
+$("#containerBoxPlot").highcharts(options);
+
+//browser console output to check whether everything worked as planned
+console.info(++count, ". chart type: ", options.chart.type);
+console.info(++count, ". title: ", options.title.text);
+console.info(++count, ". xAxis categories: ", options.xAxis.categories);
+console.info(++count, ". yAxis title: ", options.yAxis.title);
+console.info(++count, ". data: ", options.data);
+console.info(++count, ". series: ", options.series);
+console.info(++count, ". mean: ", options.yAxis.plotLines.value);
+console.info(++count, ". options.yAxis.myPlotLines: ", options.yAxis.plotLines);
+console.timeEnd("drawBoxPlot Run Time");
+console.info("%c End Box Plot Output", "color: darkred; font-family: arial; font-weight: bold; background-color: gray");
+});
+</script>
+
+<!-- END JAVASCRIPT CODE -->
+
+
+</head>
+<body>
+	<p><h1>DBLP Statistic - University of Trier</h1></p>
+<p><h3>Column Chart   18/03/2015  -  15:20:22</h3></p>
+<div id="containerColumnChart" style="width:1250px; height: 500px; margin: 0 auto"></div>
+<pre id="csvColumnChart" style="display:none">
+Characters ,  Person names
+ 3 , 7
+4 , 1191
+5 , 5012
+6 , 15259
+7 , 33094
+8 , 62562
+9 , 106607
+10 , 155464
+11 , 187557
+12 , 191965
+13 , 175842
+14 , 148353
+15 , 117138
+16 , 87180
+17 , 61795
+18 , 43140
+19 , 30403
+20 , 21705
+21 , 15480
+22 , 11139
+23 , 7891
+24 , 5689
+25 , 3876
+26 , 2709
+27 , 1780
+28 , 1283
+29 , 896
+30 , 539
+31 , 375
+32 , 222
+33 , 138
+34 , 73
+35 , 61
+36 , 32
+37 , 23
+38 , 20
+39 , 10
+40 , 7
+41 , 7
+42 , 2
+43 , 3
+44 , 2
+46 , 2
+47 , 1
+48 , 1
+50 , 1
+53 , 1
+</pre>
+<p><h3>Box plot   18/03/2015  -  15:20:22</h3></p>
+<div id="containerBoxPlot" style="width:1280px; height: 500px; margin: 0 auto"></div>
+<pre id="csvBoxPlot" style="display:none">
+1.00, 10.00, 1283.00, 33094.00, 191965.00
+</pre>
+<pre id="meanBoxPlot" style="display:none">
+31841.21
+</pre>
+<div id="variance_and_standard_deviation">
+
+Variance:  3127489001.83
+<br/>
+Standard Deviation:  55923.96
+<br/></div>
+</body>
+</html>
